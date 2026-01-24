@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-01-24T00:51:40.483610",
+  "total_chapters": 19,
+  "average_score": 91.60438596491227,
+  "average_iterations": 1.4736842105263157,
+  "total_words": 18030,
+  "chapters": [
+    {
+      "number": 1,
+      "score": 91.13333333333333,
+      "iteration": 2,
+      "word_count": 802
+    },
+    {
+      "number": 2,
+      "score": 92.73333333333335,
+      "iteration": 3,
+      "word_count": 746
+    },
+    {
+      "number": 3,
+      "score": 91.03333333333335,
+      "iteration": 2,
+      "word_count": 1281
+    },
+    {
+      "number": 4,
+      "score": 91.46666666666665,
+      "iteration": 1,
+      "word_count": 1325
+    },
+    {
+      "number": 5,
+      "score": 90.46666666666665,
+      "iteration": 1,
+      "word_count": 969
+    },
+    {
+      "number": 6,
+      "score": 92.73333333333333,
+      "iteration": 2,
+      "word_count": 848
+    },
+    {
+      "number": 7,
+      "score": 90.35,
+      "iteration": 1,
+      "word_count": 1301
+    },
+    {
+      "number": 8,
+      "score": 90.43333333333332,
+      "iteration": 1,
+      "word_count": 1009
+    },
+    {
+      "number": 9,
+      "score": 90.2,
+      "iteration": 1,
+      "word_count": 1429
+    },
+    {
+      "number": 10,
+      "score": 90.1,
+      "iteration": 1,
+      "word_count": 829
+    },
+    {
+      "number": 11,
+      "score": 90.75,
+      "iteration": 1,
+      "word_count": 1205
+    },
+    {
+      "number": 12,
+      "score": 91.90000000000002,
+      "iteration": 2,
+      "word_count": 657
+    },
+    {
+      "number": 13,
+      "score": 92.2,
+      "iteration": 2,
+      "word_count": 481
+    },
+    {
+      "number": 14,
+      "score": 92.33333333333333,
+      "iteration": 1,
+      "word_count": 924
+    },
+    {
+      "number": 15,
+      "score": 91.96666666666665,
+      "iteration": 2,
+      "word_count": 773
+    },
+    {
+      "number": 16,
+      "score": 94.26666666666667,
+      "iteration": 2,
+      "word_count": 470
+    },
+    {
+      "number": 17,
+      "score": 95.06666666666666,
+      "iteration": 1,
+      "word_count": 901
+    },
+    {
+      "number": 18,
+      "score": 91.1,
+      "iteration": 1,
+      "word_count": 1126
+    },
+    {
+      "number": 19,
+      "score": 90.25,
+      "iteration": 1,
+      "word_count": 954
+    }
+  ]
+}
