@@ -1,0 +1,114 @@
+{
+  "project": "The Chiefs Codex - Chapters 13-19",
+  "completion_date": "2026-01-25",
+  "total_chapters": 7,
+  "average_score": 100.0,
+  "all_targets_met": true,
+  "chapters": [
+    {
+      "chapter": 13,
+      "title": "On the Appearance of Neutrality",
+      "final_score": 100,
+      "target_met": true,
+      "technique_counts": {
+        "disjunctive_syllogisms": 5,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 3,
+        "logical_connectives": 9,
+        "human_nature": 4,
+        "beast_imagery": 6
+      }
+    },
+    {
+      "chapter": 14,
+      "title": "On the Commerce of Secrets",
+      "final_score": 100,
+      "target_met": true,
+      "technique_counts": {
+        "disjunctive_syllogisms": 5,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 3,
+        "logical_connectives": 9,
+        "human_nature": 5,
+        "beast_imagery": 13
+      }
+    },
+    {
+      "chapter": 15,
+      "title": "On the Invisible Chains",
+      "final_score": 100,
+      "target_met": true,
+      "technique_counts": {
+        "disjunctive_syllogisms": 6,
+        "prolepsis": 3,
+        "via_di_mezzo": 4,
+        "never_rarely_fails": 3,
+        "logical_connectives": 9,
+        "human_nature": 7,
+        "beast_imagery": 9
+      }
+    },
+    {
+      "chapter": 16,
+      "title": "On Surviving the Succession",
+      "final_score": 100,
+      "target_met": true,
+      "technique_counts": {
+        "disjunctive_syllogisms": 5,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 3,
+        "logical_connectives": 10,
+        "human_nature": 6,
+        "beast_imagery": 6
+      }
+    },
+    {
+      "chapter": 17,
+      "title": "On the Gatekeeper's Legacy",
+      "final_score": 100,
+      "target_met": true,
+      "technique_counts": {
+        "disjunctive_syllogisms": 6,
+        "prolepsis": 3,
+        "via_di_mezzo": 4,
+        "never_rarely_fails": 3,
+        "logical_connectives": 14,
+        "human_nature": 4,
+        "beast_imagery": 13
+      }
+    },
+    {
+      "chapter": 18,
+      "title": "On Knowing When to Depart",
+      "final_score": 100,
+      "target_met": true,
+      "technique_counts": {
+        "disjunctive_syllogisms": 6,
+        "prolepsis": 3,
+        "via_di_mezzo": 4,
+        "never_rarely_fails": 3,
+        "logical_connectives": 12,
+        "human_nature": 4,
+        "beast_imagery": 13
+      }
+    },
+    {
+      "chapter": 19,
+      "title": "The Final Truth",
+      "final_score": 100,
+      "target_met": true,
+      "technique_counts": {
+        "disjunctive_syllogisms": 5,
+        "prolepsis": 5,
+        "via_di_mezzo": 4,
+        "never_rarely_fails": 3,
+        "logical_connectives": 11,
+        "human_nature": 4,
+        "beast_imagery": 4
+      }
+    }
+  ]
+}
