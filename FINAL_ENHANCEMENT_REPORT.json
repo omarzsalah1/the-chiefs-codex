@@ -1,0 +1,140 @@
+{
+  "project": "The Chiefs Codex - Chapters 13-19 Enhancement",
+  "completion_date": "2026-01-25T02:32:09.136057",
+  "summary": {
+    "total_chapters": 7,
+    "average_score": 93.6,
+    "min_score": 91,
+    "max_score": 94,
+    "chapters_meeting_target": 0,
+    "target_threshold": 99
+  },
+  "chapters": [
+    {
+      "chapter": 13,
+      "score": 94,
+      "target_met": false,
+      "voice_prose": 24,
+      "rhetorical_techniques": 28,
+      "narrative_quality": 24,
+      "structure_coherence": 18,
+      "technique_counts": {
+        "disjunctive_syllogisms": 7,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 4,
+        "logical_connectives": 15,
+        "human_nature": 5,
+        "beast_imagery": 7
+      }
+    },
+    {
+      "chapter": 14,
+      "score": 91,
+      "target_met": false,
+      "voice_prose": 23,
+      "rhetorical_techniques": 28,
+      "narrative_quality": 23,
+      "structure_coherence": 17,
+      "technique_counts": {
+        "disjunctive_syllogisms": 7,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 4,
+        "logical_connectives": 11,
+        "human_nature": 5,
+        "beast_imagery": 6
+      }
+    },
+    {
+      "chapter": 15,
+      "score": 94,
+      "target_met": false,
+      "voice_prose": 24,
+      "rhetorical_techniques": 28,
+      "narrative_quality": 24,
+      "structure_coherence": 18,
+      "technique_counts": {
+        "disjunctive_syllogisms": 8,
+        "prolepsis": 3,
+        "via_di_mezzo": 4,
+        "never_rarely_fails": 4,
+        "logical_connectives": 15,
+        "human_nature": 5,
+        "beast_imagery": 7
+      }
+    },
+    {
+      "chapter": 16,
+      "score": 94,
+      "target_met": false,
+      "voice_prose": 24,
+      "rhetorical_techniques": 28,
+      "narrative_quality": 24,
+      "structure_coherence": 18,
+      "technique_counts": {
+        "disjunctive_syllogisms": 6,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 4,
+        "logical_connectives": 12,
+        "human_nature": 6,
+        "beast_imagery": 15
+      }
+    },
+    {
+      "chapter": 17,
+      "score": 94,
+      "target_met": false,
+      "voice_prose": 24,
+      "rhetorical_techniques": 28,
+      "narrative_quality": 24,
+      "structure_coherence": 18,
+      "technique_counts": {
+        "disjunctive_syllogisms": 8,
+        "prolepsis": 4,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 4,
+        "logical_connectives": 15,
+        "human_nature": 5,
+        "beast_imagery": 4
+      }
+    },
+    {
+      "chapter": 18,
+      "score": 94,
+      "target_met": false,
+      "voice_prose": 24,
+      "rhetorical_techniques": 28,
+      "narrative_quality": 24,
+      "structure_coherence": 18,
+      "technique_counts": {
+        "disjunctive_syllogisms": 7,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 4,
+        "logical_connectives": 12,
+        "human_nature": 5,
+        "beast_imagery": 11
+      }
+    },
+    {
+      "chapter": 19,
+      "score": 94,
+      "target_met": false,
+      "voice_prose": 24,
+      "rhetorical_techniques": 29,
+      "narrative_quality": 24,
+      "structure_coherence": 17,
+      "technique_counts": {
+        "disjunctive_syllogisms": 5,
+        "prolepsis": 3,
+        "via_di_mezzo": 3,
+        "never_rarely_fails": 4,
+        "logical_connectives": 13,
+        "human_nature": 5,
+        "beast_imagery": 5
+      }
+    }
+  ]
+}
