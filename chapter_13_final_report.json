@@ -1,0 +1,15 @@
+{
+  "chapter": 13,
+  "title": "On the Appearance of Neutrality",
+  "final_score": 100,
+  "target_met": true,
+  "technique_counts": {
+    "disjunctive_syllogisms": 5,
+    "prolepsis": 3,
+    "via_di_mezzo": 3,
+    "never_rarely_fails": 3,
+    "logical_connectives": 9,
+    "human_nature": 4,
+    "beast_imagery": 6
+  }
+}
