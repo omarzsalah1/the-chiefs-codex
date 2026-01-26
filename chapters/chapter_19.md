@@ -116,6 +116,8 @@ Bertoldo considered the question. He had spent thirty years managing this man—
 
 "Sandro will serve him well, if Francesco Maria has the wisdom to trust him. But the boy must be brought to court now, my lord. He must learn the duchy, learn the factions, learn the shape of the realm he will inherit. Five years is not long to train a successor."
 
+Either the successor is prepared before the crisis, or the crisis becomes his teacher—and crises are harsh instructors who grade in blood.
+
 Someone might object that such partings diminish both parties. To this I reply: men are by nature inclined to mistake the pain of parting for the harm of parting. The wound is real; the harm is not. The bond released with grace strengthens in memory; the bond clutched until it breaks festers.
 
 The salmon knows, in its final season, that the journey upstream serves not itself but those who will follow. The dying fish does not ask why it must struggle; it asks only how it may reach the spawning ground before its strength fails.
@@ -170,7 +172,7 @@ Bertoldo smiled—a rare expression, even now. "You have become what I hoped you
 
 In the spring of 1494, Bertoldo fell ill.
 
-The symptoms were familiar—he had watched enough men die to recognize the signs. The weakness that did not respond to rest. The appetite that diminished despite the body's evident need. The cough that settled in the chest and would not leave. The physicians offered treatments; Bertoldo accepted them without hope and without complaint. He had managed enough to know when management was futile.
+The symptoms were familiar—he had watched enough men die to recognize the signs. The weakness that did not respond to rest. The appetite that diminished despite the body's evident need. The cough that settled in the chest and would not leave. The body fails as the old wolf fails—not in sudden collapse but in gradual diminishment, each morning slightly less than the morning before, until the sum of small losses becomes the final loss. The physicians offered treatments; Bertoldo accepted them without hope and without complaint. He had managed enough to know when management was futile.
 
 Sandro visited daily, setting aside the duties that pressed upon him to sit with his former master. They spoke of many things—the political situation in Florence, where Savonarola's influence grew daily; the preparations for Francesco Maria's formal introduction to the court; the endless small crises that constitute the life of any realm. They did not speak of death. They did not need to.
 
@@ -222,7 +224,7 @@ Sandro was with him at the end—had been with him through the night, watching t
 
 This practice of recording wisdom in the shadow of death never or rarely fails to distill what matters most, for the man who knows he will not revise strips away all pretense and writes only what the successor must know.
 
-When the final breath came, it came quietly. No dramatic final words, no profound last utterance—only the simple cessation of a body that had carried a remarkable mind for sixty-eight years. Sandro closed his master's eyes, straightened the bedclothes, and sat for a long moment in the silence of the room.
+When the final breath came, it came quietly. No dramatic final words, no profound last utterance—only the simple cessation of a body that had carried a remarkable mind for sixty-eight years. Thus ended Bertoldo di Fano, and thus began Sandro's solitary vigil. He closed his master's eyes, straightened the bedclothes, and sat for a long moment in the silence of the room.
 
 *From the cipher of Sandro Torelli, recorded that evening:*
 
@@ -264,7 +266,7 @@ He understood this now in a way he had not understood before. The methods Bertol
 
 Bertoldo had written this, somewhere in the cipher books—Sandro had not yet found the passage, but he knew it was there, because he had heard his master say it, in different words, on a dozen different occasions. The monument would crumble eventually; monuments always do. The record would fade, or be lost, or be rendered irrelevant by changing circumstances. But the continuation—the living transmission of judgment, perception, and will from one servant to the next—this could persist indefinitely, so long as each link in the chain took care to forge the next.
 
-A man either builds monuments that proclaim his name and invite destruction, or he shapes continuations that bear no signature and therefore endure. The wise servant chooses the unsigned path—not from humility but from understanding.
+A man either builds monuments that proclaim his name and invite destruction, or he shapes continuations that bear no signature and therefore endure. Therefore, the wise servant chooses the unsigned path—not from humility but from understanding.
 
 Sandro would train his own successor, when the time came. That successor would train another. And somewhere down that long chain—decades hence, perhaps centuries—a servant would make a decision that preserved a realm, using judgment shaped by methods that traced back, link by link, to an old man who died in Urbino in the summer of 1494.
 

@@ -10,7 +10,7 @@ Everyone admits that the master who trains his successor ensures the continuity 
 
 Princes encourage this belief, for it flatters their sense of immortality through institutions. The servant takes comfort in it, imagining that his teachings will persist after his departure, that some part of him will remain when his body has gone.
 
-Nevertheless, the seasoned observer of courts will note that succession is the most delicate operation a gatekeeper can attempt. For the very qualities that make a man effective cannot be taught—they can only be cultivated in soil that may or may not receive the seed. And the servant who imagines he can create a replica of himself deceives himself utterly. He can transmit knowledge; he can demonstrate methods; he can share secrets. But the essential quality—the willingness to bear the unbearable—this cannot be given. It can only be discovered, in the crucible of crisis, when there is no master left to consult.
+Nevertheless, the seasoned observer of courts will note that succession is the most delicate operation a gatekeeper can attempt. For the very qualities that make a man effective cannot be taught—they can only be cultivated in soil that may or may not receive the seed. Furthermore, the timing of such cultivation admits no delay—the master who waits too long to begin training finds himself with insufficient seasons remaining. And the servant who imagines he can create a replica of himself deceives himself utterly. He can transmit knowledge; he can demonstrate methods; he can share secrets. But the essential quality—the willingness to bear the unbearable—this cannot be given. It can only be discovered, in the crucible of crisis, when there is no master left to consult.
 
 Therefore, the gatekeeper must understand that he faces either the risk of training a successor who may supplant him or the certainty of leaving no legacy when he departs. There is no middle position. The servant who withholds his wisdom to protect his position ensures only that his position dies with him.
 
@@ -34,7 +34,7 @@ Bertoldo's attention had settled, over the previous year, on a young man named S
 
 The spider does not announce its presence in the corner; it waits, motionless, watching the movements of the room until the moment arrives to act. Bertoldo had watched Sandro for months and recognized a kindred stillness—the patience of one who understands that observation precedes action.
 
-But recognition was not confirmation. Therefore, a test.
+But recognition was not confirmation. Hence, a test was required—one that would reveal character without announcing its purpose.
 
 In the summer of 1488, Bertoldo assigned Sandro to accompany a minor diplomatic mission to Florence. The mission itself was insignificant—a dispute over trade routes that would be resolved through the usual exchanges of courtesy and coin. But Bertoldo had instructed Sandro to observe and report, nothing more.
 
@@ -60,7 +60,7 @@ Bertoldo nodded slowly. "And if she had not been from the east? If there had bee
 
 This was the correct answer. This method of testing—assignment without instruction, observation without guidance—never or rarely fails as a means of revealing character, for it forces the candidate to demonstrate initiative without the comfort of knowing what initiative is expected.
 
-Bertoldo had found his student.
+Bertoldo had found his student. Consequently, he wasted no time in beginning the evaluation of deeper qualities.
 
 He noticed, too, what Sandro had not mentioned: Vittorio Salviati. The young courtier's family had been cultivating Florentine connections for a decade, and Bertoldo's other informants had noted Salviati's presence at three separate diplomatic functions with growing concern. The man had a gift for appearing insignificant while positioning himself at the center of significant events—a gift Bertoldo recognized because he had possessed it himself, once, before necessity forced him into visibility.
 
@@ -142,9 +142,13 @@ After Contarini departed, Sandro descended from his hiding place.
 
 The heron stands motionless in the shallows, seeming to sleep while its eye tracks every movement beneath the surface. So too must the gatekeeper attend to negotiations—his stillness is not absence but attention, and when he finally strikes, his action is fed by everything his patience revealed.
 
+Someone might object that such silence appears weak—that the negotiator who says nothing concedes the floor to his opponent. To this I reply: the floor matters less than the foundation, and the man who speaks first has built his house upon sand.
+
 "Your silence is the web," Bertoldo continued. "Spin it well, and men will fill it with everything you wished to know but dared not ask. Contarini came to sell; he leaves having shown me exactly what he fears."
 
 This method never or rarely fails when applied to men who are anxious to conclude agreements, for anxiety abhors a vacuum. The man who speaks first in a negotiation reveals his anxiety; the man who speaks most reveals his weakness. Either you control the silence and force others to fill it, or you fill the silence yourself and reveal what you cannot afford to show.
+
+Consequently, the master who teaches silence teaches the foundation of all negotiation—and the student who learns it possesses a weapon that never dulls.
 
 ---
 
@@ -190,6 +194,8 @@ Either the servant accepts this burden and becomes capable of governing, or he r
 
 This test of burden-bearing never or rarely fails to reveal the true capacity of a potential successor, for it separates those who can carry weight from those who will collapse beneath it.
 
+If anyone were to object that such tests are cruel—that the master who burdens his student with dark knowledge damages an innocent soul—I would answer that innocence is incompatible with governance. The soul that cannot absorb darkness cannot navigate a court, and the master who protects his student's innocence condemns him to failure.
+
 Bertoldo thought of the other secret he still carried—the one he could share with no one, not even this student he was forming. Guidobaldo's tremors were worse this winter than last, though the duke hid them well in public. The physicians whispered among themselves when they thought no one listened, but Bertoldo always listened. The wasting illness that had nearly killed the boy in 1487 had not departed; it had merely retreated, gathering strength for another assault.
 
 If the factions knew—if Orsini or Rinaldi suspected that the duke might never sire an heir—the scheming would begin again before nightfall. The conspiracy Bertoldo had broken two years ago would reconstitute itself around this new vulnerability.
@@ -230,11 +236,11 @@ Sandro frowned. "I do not court popularity."
 
 The falcon must learn to strike without hesitation when prey presents itself. Hesitation is death—for the hunter, if not for the prey. So too must the gatekeeper learn to act without the paralysis of compassion.
 
-"I was not always capable of this," Bertoldo continued. "In my first years, I tried to achieve results without making enemies. I learned—through failures that nearly destroyed me—that this is impossible. The gatekeeper who cannot cause pain will be caused pain by others."
+"Moreover, I was not always capable of this," Bertoldo continued. "In my first years, I tried to achieve results without making enemies. I learned—through failures that nearly destroyed me—that this is impossible. The gatekeeper who cannot cause pain will be caused pain by others."
 
 Either the servant learns to cause pain without flinching, or he remains forever limited in what he can accomplish. There is no middle position where one can govern effectively while remaining universally loved. Men are by nature inclined to test those who seem gentle, and the gatekeeper who cannot hurt them will only be exploited for his gentleness.
 
-"This is what I cannot teach you," Bertoldo said. "I can only tell you it exists, and wait to see if you find it within yourself. Tomorrow, you will refuse the Medici ambassador's request for a private audience with the duke. You will do so publicly, with witnesses, and you will offer no softening explanation. He will hate you for it—permanently and personally. This hatred will be your first lesson."
+"This is what I cannot teach you," Bertoldo said. "I can only tell you it exists, and wait to see if you find it within yourself. On the morrow, you will refuse the Medici ambassador's request for a private audience with the duke. You will do so publicly, with witnesses, and you will offer no softening explanation. He will hate you for it—permanently and personally. This hatred will be your first lesson."
 
 "And if I soften the refusal anyway? If I cannot help myself?"
 
@@ -250,7 +256,7 @@ That evening, he came to Bertoldo with shaking hands.
 
 "I feel... unclean. As if I have betrayed something important."
 
-"You have betrayed your natural desire to be loved. This is the first of many such betrayals." Bertoldo poured two cups of wine. "The feeling will fade. Not entirely—that would make you a monster of a different kind—but enough that you can function. Eventually, the refusals become routine. Eventually, the hatred becomes background noise."
+"You have betrayed your natural desire to be loved. This is the first of many such betrayals." Bertoldo poured two cups of wine. "Thus the feeling will fade. Not entirely—that would make you a monster of a different kind—but enough that you can function. Eventually, the refusals become routine. Eventually, the hatred becomes background noise."
 
 "Is that what happened to you?"
 
@@ -274,7 +280,9 @@ That evening, he came to Bertoldo with shaking hands.
 
 *The gatekeeper who leaves no successor has built his house upon sand; but the gatekeeper who transmits his knowledge has planted his roots in the hearts of those who come after.*
 
-They say the gardener who plants an oak will never sit in its shade—for oaks grow slowly, and gardeners grow old. Yet still he plants, knowing the shade will fall on faces he will never see, knowing the acorns will feed creatures not yet born.
+Thus they say the gardener who plants an oak will never sit in its shade—for oaks grow slowly, and gardeners grow old. Yet still he plants, knowing the shade will fall on faces he will never see, knowing the acorns will feed creatures not yet born.
+
+Hence the gardener's reward is not the shade but the planting—not the harvest but the faith that harvest will come.
 
 So too the gatekeeper with his successor: he plants what he cannot harvest, tends what he cannot enjoy, and finds in the planting itself the only immortality available to servants of the gate.
 

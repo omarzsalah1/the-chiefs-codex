@@ -14,7 +14,7 @@ Nevertheless, the seasoned observer of courts will note that no departure is ent
 
 Therefore, the gatekeeper must understand that he faces either the humiliation of departure imposed by others or the anxiety of departure chosen in uncertainty. There is no middle position. The servant who waits for the perfect moment waits forever, for the perfect moment never arrives.
 
-If anyone were to object that a powerful gatekeeper can surely maintain his position indefinitely through the same skills that elevated him, I would answer that the skills which win power are not the skills which preserve it, and neither are the skills which allow graceful exit. Men are by nature more alert to the vulnerabilities of the powerful than to the strengths, and the gatekeeper who has thrived for years will find that his every weakness has been catalogued by those who wait to use them.
+If anyone were to object that a powerful gatekeeper can surely maintain his position indefinitely through the same skills that elevated him, I would answer that the skills which win power are not the skills which preserve it, and neither are the skills which allow graceful exit. Men are by nature more alert to the vulnerabilities of the powerful than to the strengths, and the gatekeeper who has thrived for years will find that his every weakness has been catalogued by those who wait to use them. Consequently, the servant who plans to serve forever plans to fail eventually—for time itself conspires against permanence.
 
 ---
 
@@ -64,6 +64,10 @@ This was the gatekeeper's reward and his curse: to know what he had done, and to
 
 It may be thought that such invisible service is its own satisfaction—that the servant who serves well needs no recognition beyond the knowledge of his own effectiveness. But experience demonstrates otherwise: the human heart craves acknowledgment, and the servant who receives none must fight constantly against bitterness. Either he finds peace in anonymity, or he is consumed by resentment at the ingratitude of those he has saved. There is no middle position where the invisible servant remains both effective and content.
 
+This discipline of accepting anonymity never or rarely fails to preserve the servant's sanity, for the man who serves without expectation of recognition cannot be wounded by its absence.
+
+Someone might object that accepting anonymity is surrender—that the servant who craves no recognition has abandoned the natural human desire to be known. To this I reply: the servant who craves recognition has already lost, for recognition draws the very scrutiny that destroys effectiveness. Men are by nature inclined to resent those who are praised, and the servant who is praised becomes a target for those who were not.
+
 *From the cipher of Bertoldo di Fano:*
 
 > *"The temptation whispers: Stay. You have earned this position. You have sacrificed everything for it—youth, love, the possibility of children, the simple pleasures that other men take for granted. Will you surrender it now, when you still have the strength to serve? Will you walk away from the only life you know, into an emptiness that terrifies you more than any enemy ever could?*
@@ -96,7 +100,7 @@ The duke's expression shifted—surprise, then something that might have been re
 
 "I have years of life remaining, God willing. Whether those years should be spent in service is another question."
 
-Here observe how the servant must manage his own departure: with dignity, without pleading, presenting his decision as already made rather than as a request to be granted or denied. Either the servant controls the narrative of his exit, or others will control it for him—and their narrative will not be kind.
+Here observe how the servant must manage his own departure: with dignity, without pleading, presenting his decision as already made rather than as a request to be granted or denied. Either the servant controls the narrative of his exit, or others will control it for him—and their narrative will not be kind. Thus Bertoldo had prepared his words with the same care he had once prepared diplomatic dispatches.
 
 "The realm no longer requires what I uniquely provide," Bertoldo continued. "You have grown into a prince who needs advisors, not guardians. The difference is significant. An advisor offers counsel; a guardian offers protection. You no longer need protection, my lord. You need only counsel—and counsel can be provided by younger men with fresher perspectives."
 
@@ -125,6 +129,8 @@ Guidobaldo rose and walked to the window. His silhouette against the winter ligh
 He paused. "If Sandro succeeds, I succeed. If he fails, I will have failed. But I would rather fail in the attempt to create a continuation than succeed in clinging to a position I have outgrown."
 
 This appeal never or rarely fails when made to princes who understand legacy, for it frames the departure not as abandonment but as the final act of service—the creation of continuity beyond the individual servant. Men are by nature inclined to suspect those who depart voluntarily of hidden guilt or secret failure; the servant who frames his departure as succession transforms suspicion into admiration.
+
+Someone might object that such framing is mere manipulation—that the servant who dresses his exit in noble language merely seeks to preserve his reputation. To this I reply: reputation and reality need not conflict. The servant who genuinely creates a successor has earned the right to say so, and saying so is not manipulation but accuracy.
 
 The duke turned. "When?"
 
@@ -174,11 +180,11 @@ The duke did not come to see him off—this was appropriate, for a prince does n
 
 Bertoldo arrived at Fano in the late summer of 1490. The estate was modest—a stone house with a small vineyard, a library he had been building for decades, and a view of the Adriatic that changed color with each hour of the day. He was fifty-four years old, in reasonable health despite the complaints he had manufactured for the court, and possessed of something he had never before experienced: time without obligation.
 
-The first months were difficult. He woke each morning with the reflexive anxiety of a man who has urgent duties awaiting him, only to remember that no duties existed. The absence of responsibility felt less like freedom than like amputation—a phantom limb that itched without any means of scratching.
+Consequently, the first months were difficult. He woke each morning with the reflexive anxiety of a man who has urgent duties awaiting him, only to remember that no duties existed. The absence of responsibility felt less like freedom than like amputation—a phantom limb that itched without any means of scratching.
 
 But gradually, the anxiety faded. He read the books he had never had time for—philosophy, poetry, the natural histories that had fascinated him as a young man before politics consumed his life. He walked the hills above Fano, watching the seasons change with an attention he had never been able to spare. He wrote in his cipher, no longer from necessity but from habit, recording thoughts that had no political significance and observations that served no strategic purpose.
 
-It may be thought that such withdrawal represents a failure of ambition—that the servant who retreats from power has confessed his inability to maintain it. But experience demonstrates otherwise: the wisest servants are those who understand that power is borrowed, not owned, and that the graceful return of borrowed things is itself a form of strength. Either the servant learns to release what was never truly his, or he clutches it until it is torn from his grasp. There is no middle position where power can be both held and surrendered. Men are by nature unable to imagine contentment without ambition; they assume the man who steps away from power must be nursing wounds or plotting return. Let them assume. The servant who has truly found peace need not convince anyone of its authenticity.
+It may be thought that such withdrawal represents a failure of ambition—that the servant who retreats from power has confessed his inability to maintain it. But experience demonstrates otherwise: the wisest servants are those who understand that power is borrowed, not owned, and that the graceful return of borrowed things is itself a form of strength. Therefore, the servant who returns his borrowed power with grace demonstrates the same wisdom as the servant who wielded it well. Either the servant learns to release what was never truly his, or he clutches it until it is torn from his grasp. There is no middle position where power can be both held and surrendered. Men are by nature unable to imagine contentment without ambition; they assume the man who steps away from power must be nursing wounds or plotting return. Let them assume. The servant who has truly found peace need not convince anyone of its authenticity.
 
 *From the cipher of Bertoldo di Fano:*
 
@@ -232,7 +238,7 @@ To understand the wisdom of Bertoldo's departure, consider the fate of Ludovico 
 
 Ludovico served the Este dukes for forty years—a record of longevity that many admired and Bertoldo studied with growing horror. For Ludovico did not know when to leave. He served through three dukes, accumulating power with each transition, until he had become so essential that no one dared suggest his retirement.
 
-By his final years, Ludovico was a grotesque. He clung to his position with arthritic fingers, attending meetings he could barely hear, issuing orders that younger officials quietly countermanded. The dukes tolerated him because removing him would have been difficult; the courtiers mocked him because mockery was easy and revenge was sweet.
+Moreover, by his final years, Ludovico was a grotesque. He clung to his position with arthritic fingers, attending meetings he could barely hear, issuing orders that younger officials quietly countermanded. The dukes tolerated him because removing him would have been difficult; the courtiers mocked him because mockery was easy and revenge was sweet.
 
 He cultivated the young duke's mistress, hoping to maintain influence through her bed. He spread subtle doubts about his potential successors, undermining anyone who might replace him. He manufactured small crises that only he could solve, reminding the court of his indispensability through emergencies of his own creation. Each tactic bought a little time, and each tactic cost a little more of the reputation he had spent four decades building.
 
@@ -242,7 +248,7 @@ When Ludovico finally expired—at his desk, still clutching a pen, still refusi
 
 From this contrast, the wise servant will observe: the gatekeeper who stays too long is not remembered for his decades of service but for his years of decline. Either depart while departure is still a choice, or be departed while mockery is still fresh. There is no middle position where the aging servant maintains both his position and his dignity. Men are by nature inclined to remember endings more vividly than beginnings, and the servant who poisons his ending poisons everything that came before.
 
-Furthermore, consider what Ludovico's clinging cost those he claimed to serve. His successors could not learn while he blocked their advancement. His dukes could not modernize while he defended obsolete methods. His courts could not evolve while he enforced the customs of his youth. Therefore, the servant who stays too long serves no one—not his prince, not his realm, not even himself. He becomes a monument to his own inability to let go, and monuments, in courts, are eventually toppled.
+Furthermore, consider what Ludovico's clinging cost those he claimed to serve. His successors could not learn while he blocked their advancement. His dukes could not modernize while he defended obsolete methods. His courts could not evolve while he enforced the customs of his youth. Hence the final service a gatekeeper can render is the service of departure—the gift of absence that allows others to grow into the space he once filled. Therefore, the servant who stays too long serves no one—not his prince, not his realm, not even himself. He becomes a monument to his own inability to let go, and monuments, in courts, are eventually toppled.
 
 Bertoldo studied Ludovico's fate and vowed: *Not I. I will not become a warning. I will not become a bear who cannot smell the spring.*
 
