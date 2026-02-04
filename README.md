@@ -1,33 +1,35 @@
 # The Chiefs Codex
 
-*A Machiavellian Manual for the Modern Gatekeeper*
+**On Power, Proximity, and Those Who Guard It**
 
-## Overview
+*A Renaissance treatise on the art of serving—and surviving—those who wield power.*
 
-The Chiefs Codex is a 19-chapter treatise written in authentic Machiavellian voice, exploring the nature of gatekeeping power in Renaissance courts. Generated through a rigorous multi-model AI consensus process with strict quality controls.
+## Latest Version
 
-## Statistics
+**THE_CHIEFS_CODEX_DEFINITIVE.md** - Complete 19-chapter manuscript (328KB, ~51,775 words)
 
-- **Total Chapters**: 19
-- **Average Quality Score**: 91.6% (90%+ threshold)
-- **Average Iterations per Chapter**: 1.5
-- **Total Word Count**: 18,030 words
-- **Generation Method**: Multi-model consensus (Claude Opus 4.5, Gemini 3 Pro, Perplexity Sonar Pro)
+**THE_CHIEFS_CODEX_FINAL.pdf** - Professional PDF (280 pages, 6x9 trade paperback format)
 
-## Chapters
+## Contents
 
-1. On the True Nature of the Gatekeeper's Power
-2. On Proximity and the Illusion of Influence
-3. On the Management of Access
-4. On the Appearance of Neutrality
-5. On Information as Currency
-6. On the Cultivation of Dependence
-7. On the Prince's Weaknesses
-8. On Rivals Within the Court
-9. On the Appearance of Loyalty
-10. On the Management of Petitioners
-11. On the Timing of Counsel
-12. On the Burden of Secrets
+### Main Files
+- `THE_CHIEFS_CODEX_DEFINITIVE.md` - The complete, authoritative manuscript
+- `THE_CHIEFS_CODEX_FINAL.pdf` - Professional PDF with full-bleed cover
+- `build_final_v2.py` - PDF build script (WeasyPrint + reportlab)
+
+### Chapters (19 total)
+1. On the Gatekeeper's Art
+2. On Fortune and Virtue in Service
+3. On the Privilege of Wounding
+4. On Protecting the Prince from Himself
+5. On Swift Action and Measured Counsel
+6. On Filtering Access to the Prince
+7. On Focusing the Prince's Attention
+8. On Coalition Architecture
+9. On the Management of Fury
+10. On the Disposition of Petitioners
+11. On When to Elevate Others
+12. On the Gatekeeper's Own Ambition
 13. On the Delegation of Blame
 14. On the Preservation of Mystery
 15. On the Management of the Prince's Time
@@ -36,33 +38,29 @@ The Chiefs Codex is a 19-chapter treatise written in authentic Machiavellian voi
 18. On Knowing When to Leave
 19. On the Nature of Power Itself
 
-## Files
+### Assets
+- `assets/` - Chapter dividers and ornaments
+- `cover_resized.png` - Book cover image
 
-- `THE_CHIEFS_CODEX_COMPLETE.md` - Complete manuscript
-- `COMPILATION_STATS.json` - Detailed generation statistics
-- `chapter_XX_iterY.json` - Individual chapter data with evaluations
-- `orchestrator_v4.py` - Generation orchestration system
+## Building the PDF
 
-## Generation Process
+```bash
+python3 build_final_v2.py
+```
 
-Each chapter was:
-1. Written by Claude Opus 4.5 in Machiavellian voice
-2. Synthesized by Gemini 3 Pro for refinement
-3. Evaluated by 3-model grading panel
-4. Iteratively refined until achieving 90%+ quality score
+Requires: weasyprint, reportlab, PyPDF2, Pillow
 
-## Quality Criteria
+## Version History
 
-- Authentic Machiavellian voice (declarative, cold, observational)
-- Renaissance historical accuracy
-- Concrete narrative examples
-- Clear instructional value
-- No modern language or hedging
+- **2026-02-03**: CODEX15 - PDF build with full-bleed cover, Chapter 3 formatting fix
+- **2026-01-31**: CODEX12 - Complete 19-chapter compilation
+- **2026-01-29**: CODEX9 - 11 chapters locked
+- **2026-01-27**: CODEX6 - Initial revision audit
+
+## Author
+
+Omar Z. Salah
 
 ## License
 
-This work is generated content. Use at your own discretion.
-
----
-
-*Generated: January 2026*
+All rights reserved.
