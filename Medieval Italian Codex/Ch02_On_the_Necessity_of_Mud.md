@@ -24,7 +24,7 @@ It was graciously said. Bertoldo didn't believe a word of it.
 
 Within a month, the pattern became clear.
 
-Marcello was everywhere–at every gathering, every dinner, every moment when the Duke entertained visiting nobles. He had a gift for conversation that Bertoldo could only admire from a distance: the ability to make men feel important, to laugh at the moment that called for it, to remember the names of wives and children and ask after them with apparent sincerity.
+Marcello was everywhere–at every gathering, every dinner, every moment when the Duke entertained visiting nobles. He did not merely converse; he kept an economy of grace. He dispensed attention exactly where it was hungered for, laughed a fraction of a second before the joke required it, remembered the names of wives and children and spent those names like coin. Bertoldo watched from his desk, measuring the transactions.
 
 The courtiers loved him. Even Duke Federico seemed to brighten when Marcello entered a room. The servants would have followed him into fire.
 
@@ -144,7 +144,7 @@ Benci calculated. The provisions Bertoldo was asking for might be worth four hun
 
 –
 
-Bertoldo rode beside the supply wagons all the way to the garrison, arriving just as afternoon light began to slant golden across the mountains. The soldiers–hungry, low on arrows, preparing for what they thought would be a fighting retreat–stared at the approaching convoy like a blessing descending from heaven.
+Bertoldo rode beside the supply wagons all the way to the garrison, arriving just as afternoon light began to slant golden across the mountains. The soldiers–hungry, low on arrows, preparing for what they thought would be a fighting retreat–stared at the approaching convoy as men stare at the cancellation of their own funerals.
 
 Captain Monti, a scarred veteran with gray in his beard, clasped Bertoldo's mud-spattered hand. "The Duke sent you?"
 
@@ -286,7 +286,9 @@ He closed the journal, locked it away, and collapsed onto his narrow bed.
 
 Sleep came quickly, heavy and dreamless.
 
-And the next morning, when Marcello Davanzati arrived in the antechamber fresh and handsome and smiling, the courtiers still gathered around him like flowers turning toward the sun. They would always gather around him. That was the nature of fortune.
+The replies from Florence arrived three days later, bearing the heavy, impeccable seals of the Davanzati banking partners and promising urgent attention to the Duke's crisis. Bertoldo read them, noted the date, and filed them without comment in the archive of completed matters. The soldiers were fed. The debt was cleared. The mud had dried on his boots. The rescue had arrived.
+
+And in the morning, when Marcello Davanzati arrived in the antechamber fresh and handsome and smiling, the courtiers still gathered around him like flowers turning toward the sun. They would always gather around him. That was the nature of fortune.
 
 But when Duke Federico needed something that actually mattered, he no longer looked toward the sun.
 
