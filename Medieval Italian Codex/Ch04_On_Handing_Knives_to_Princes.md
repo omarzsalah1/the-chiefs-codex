@@ -60,7 +60,7 @@ Bertoldo took a breath. Every instinct he possessed screamed that this–this mo
 
 The single syllable held an edge that might have cut leather.
 
-Bertoldo's pulse hammered against his ribs. *You are the voice of the one behind the door. Even when the door is empty. Especially then.*
+Bertoldo's pulse hammered against his ribs. *You are the voice of the one behind the door,* the cipher whispered in his mind. *Even when the door is empty. Especially then.*
 
 "Yes, my lord," he said. "The Duke has not authorized anyone to read his private drafts."
 
@@ -82,7 +82,9 @@ The word *stolen* landed like a slap.
 
 Color rose in Lorenzo's neck.
 
-"Mind your tongue, boy," he said softly. "You sit at a desk. I keep wolves from these walls. If your Duke squanders my loyalty–" He stopped, jaw tightening. "No. You will not twist my words."Lorenzo folded the draft with deliberate reverence and laid it back in its place.
+"Mind your tongue, boy," he said softly. "You sit at a desk. I keep wolves from these walls. If your Duke squanders my loyalty–" He stopped, jaw tightening. "No. You will not twist my words."
+
+Lorenzo folded the draft with deliberate reverence and laid it back in its place.
 
 "I have seen enough," he said. "You may lock your door again."
 
@@ -160,7 +162,9 @@ Federico closed the door with a finality that made the hairs rise on Bertoldo's 
 
 Bertoldo inclined his head.
 
-"Not ordered." "I weighed my words," Bertoldo said. "He is a proud man."
+"Not ordered."
+
+"I weighed my words," Bertoldo said. "He is a proud man."
 
 Federico's mouth twitched–the ghost of some private amusement. "And what did this proud man say?"
 
@@ -194,7 +198,7 @@ Bertoldo swallowed.
 
 "He fears loss of autonomy."
 
-"Yes, my lord." And he is warning you that he will not accept garrisons he does not control in forts that command his lands.
+"Yes, Your Excellence. And he is warning you that he will not quietly accept garrisons he does not control in forts that command his lands."
 
 Federico's gaze did not leave the window.
 
@@ -210,7 +214,9 @@ Federico turned from the window.
 
 "My opinion is..." Bertoldo stopped himself, the word clumsy in his mouth. Opinion was for courtiers. What Federico needed was pattern, not preference.
 
-"The pattern suggests," he corrected, "that Lord Lorenzo has not decided yet. He is testing boundaries. Seeing how far he may go in asserting his interests before you assert yours."The Duke let silence settle before speaking.
+"The pattern suggests," he corrected, "that Lord Lorenzo has not decided yet. He is testing boundaries. Seeing how far he may go in asserting his interests before you assert yours."
+
+The Duke let silence settle before speaking.
 
 "You could have said nothing," he remarked.
 
@@ -232,7 +238,7 @@ Federico's eyes flashed–anger or approval, Bertoldo could not yet tell.
 
 "No, Your Grace," Bertoldo replied. "I do not enjoy it. But I have accepted that I am the one who must bring them."
 
-And you understand that the last man to bring me such a knife now lies beneath the stones at San Bernardino? God rest his soul.
+"And you understand," Federico said, "that the last man to bring me such a knife now lies beneath the stones at San Bernardino?"
 
 "Yes, my lord."
 
@@ -286,7 +292,9 @@ Bertoldo hesitated.
 
 Bertoldo met his eyes.
 
-"You can remind Lord Lorenzo that whatever commands his passes still depends on your coin," he said. "Garrisons need pay. Forges need iron. Roads need repair. You can make it evident–without saying so–that a noble who withholds gates may find his coffers... constricted."Federico let silence settle, his gaze fixed on some distant point.
+"You can remind Lord Lorenzo that whatever commands his passes still depends on your coin," he said. "Garrisons need pay. Forges need iron. Roads need repair. You can make it evident–without saying so–that a noble who withholds gates may find his coffers... constricted."
+
+Federico let silence settle, his gaze fixed on some distant point.
 
 "You would have me offer him honor and blood," he said, "while keeping my hand on his purse."
 
@@ -352,7 +360,7 @@ Bertoldo watched his face as he straightened.
 
 There–a flicker. The barest tightening around the eyes when he saw that the Duke's gaze was steady, his tone unfraught. No sign of affront. No hint of simmering anger. No indication that anything untoward had occurred in the Duke's study that afternoon.
 
-*He wonders. He does not know where the wire runs. Only that it exists.*
+*He wonders,* the cipher whispered. *He does not know where the snare lies. Only that it exists.*
 
 Federico gestured to the seat at his right.
 
@@ -361,8 +369,6 @@ Federico gestured to the seat at his right.
 Lorenzo hesitated, then took the offered place.
 
 Bertoldo saw the calculation in the man's eyes as he sat. *If he knew, he would not smile. If he did not know, he would not invite.*
-
-Divided allegiance had met something harder: a prince who now knew–and a gatekeeper who had refused both the safety of silence and the temptation of taking sides.
 
 He slipped from the pillar back toward the antechamber, where the petitions for the morning waited like patient wolves of a more familiar kind.
 
@@ -384,7 +390,7 @@ His right hand ached–the dull, familiar pain that came when he had clenched it
 
 *Divided allegiance is a crack in the wall. Left alone, it widens with every season until daylight pours through and enemies walk in. My work is not to prevent cracks–that is beyond any man–but to make sure the prince sees them before the siege engines arrive.*
 
-*He did not thank me. He should not. Gratitude would tempt me toward kindness when clarity is required. Instead, he summoned me to dinner, where I watched the man who had trespassed wonder who had told on him.*
+*Gratitude would tempt me toward kindness when clarity is required. Instead, he summoned me to dinner, where I watched the man who had trespassed wonder who had told on him.*
 
 *This is another tax of service: to become the invisible third in every conversation between prince and noble, knowing that both suspect you and neither can rule without you.*
 
