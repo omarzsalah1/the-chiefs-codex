@@ -4,7 +4,7 @@
 
 The antechamber smelled of wet wool and the sour breath of men who had traveled mountain roads to beg—the raw lanolin reek of undyed fleece mixed with sweat and desperation.
 
-Bertoldo di Fano stood at his desk–a notary's son, twenty-five years old, oak-gall ink still staining the crescents beneath his fingernails—the blue-black that oxidized to rust-brown at the edges, marking him as a man who worked with iron and acid–and counted the men who waited to see Duke Federico. Fifty-three petitioners that morning, each clutching parchment they believed would save the state, or their fortunes, or their lives. The pale travertine walls amplified their murmuring into a single anxious drone, punctuated by coughs and the scrape of hobnailed boots on cold marble.
+Bertoldo di Fano stood at his desk and counted the men who waited to see Duke Federico. He was a notary's son, twenty-five years old, with oak-gall ink still staining the crescents beneath his fingernails. It was a blue-black that oxidized to rust-brown at the edges—marking him as a man who worked with iron and acid. Fifty-three petitioners that morning, each clutching parchment they believed would save the state, or their fortunes, or their lives. The pale travertine walls amplified their murmuring into a single anxious drone, punctuated by coughs and the scrape of hobnailed boots on cold marble.
 
 He had been in the Duke's service for three weeks.
 
@@ -24,7 +24,7 @@ Bertoldo glanced at the hourglass on his desk. The sand trickled down. Twelve mi
 
 "Next," Federico said, and his hand drifted toward his belt, touching the pommel of his dagger. Not a threat, Bertoldo realized, but something else: the reflexive need to touch something solid in a world made of words and paper and endless, grinding obligation.
 
-*He is drowning,* Bertoldo thought. The courtiers call it 'breadth of counsel'—this endless parade of petitioners. They believe that wisdom emerges from volume, that fifty voices somehow produce clearer truth than five. But I watched Federico today. Each petitioner took something from him. Not gold. Not even time. They took his power to think. By the third hour, he was signing documents he had not read. By the fifth, he was agreeing to meetings he would regret. This is not counsel. It is theft disguised as service.
+*He is drowning,* Bertoldo thought. The courtiers called this endless parade of petitioners 'breadth of counsel.' They believed that wisdom emerged from volume—that fifty voices must somehow produce a clearer truth than five. But Bertoldo watched the Duke. Each petitioner took something from him. Not gold. Not even time. They took his power to think. By the third hour, he was signing documents he had not read. By the fifth, he was agreeing to meetings he would regret. This was not counsel. It was theft disguised as service.
 
 A nobleman pushed forward–heavy-set, armed, his cloak bearing the Brancaleoni crest. "My business is urgent!"
 
@@ -38,7 +38,7 @@ Bertoldo's heart hammered against his ribs. His mouth had gone dry. But he remem
 
 "Your concern is heard," Bertoldo lied, his voice steadying as he spoke. "Your petition will be presented when your turn comes. The door is closed."
 
-The nobleman's hand moved to his sword hilt, and Bertoldo felt a flicker of certainty that the weapon might be drawn. The certainty came cold and simple: he would die here, on these stones, killed for the crime of doing his duty.
+The nobleman's hand moved to his sword hilt. For a moment, Bertoldo thought he might actually draw. The mathematics of violence presented themselves with crystalline clarity: he would die here, on these stones, killed for the crime of doing his duty.
 
 But he did not move. And he did not raise his voice.
 

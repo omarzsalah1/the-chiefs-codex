@@ -18,7 +18,10 @@ Planning note: WS7/WS8 enrichment concentrated in Part III — Ch13 (~6.5K w), C
 
 | Date | Chapter | Candidates | Strong yes / Maybe / Leave | Edits applied | Notes |
 |------|---------|-----------|---------------------------|---------------|-------|
-| 2026-07-02 | Ch1 | 4 labelable + 1 leave-alone inventory | 4 Strong yes (Omar) | 4 lens edits + M-1 quote fix | APPLIED + seam-checked. Aphorism slot used (ledger/struck). Ch1 Pass 1 CLOSED. |
+| 2026-07-02 | Ch1 | 4 labelable + 1 leave-alone inventory | 4 Strong yes (Omar) | 4 lens edits + M-1 quote fix | APPLIED + seam-checked. Aphorism slot used (ledger/struck). |
+| 2026-07-02 | Ch1 (addendum) | 3 syntax/rhythm proposals from Omar's review | 3 Strong yes (author-proposed) | K1-06/07/08 | **Ch1 Pass 1 at 7/7 edit cap — CLOSED.** Further Ch1 work = Pass 2. |
+
+**Addendum as-applied (author-proposed, 2026-07-02):** K1-06 opening em-dash chain broken into three sentences; "iron and acid" now lands as sentence-end judgment. · K1-07 'breadth of counsel' interior regularized to third-past negation pivot ("The courtiers called… They believed… But Bertoldo watched the Duke."); NOTE: closing maxim tense-harmonized "This is/It is" → "This was/It was theft disguised as service" — wording of the locked aphorism intact, tense changed for register consistency; flag to Omar. · K1-08 RESTORATION from published PDF: "The mathematics of violence presented themselves with crystalline clarity" (WS wave had degraded it to a double-"certainty" construction); restored published wording, not the review's paraphrase. Chapter now ≈1,424 w.
 
 ---
 
