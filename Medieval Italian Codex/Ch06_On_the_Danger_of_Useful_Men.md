@@ -4,7 +4,7 @@
 
 By then, Bertoldo had learned to recognize the sound of ambition.
 
-It was not the clash of swords in the courtyard or the raised voices in council. It was softer than that–a certain cadence in a petitioner's tone, the way a man said *"only a moment of His Excellence's time"*, holding time like a trinket upon a silver tray, the slight forward lean of the body that betrayed not need, but hunger.
+It was not the clash of swords in the courtyard or the raised voices in council. It was softer than that–a certain cadence in a petitioner's tone, the way a man said *"only a moment of His Excellence's time"*, holding time like a trinket upon a silver tray, the slight forward lean of the body that betrayed not need, but hunger.
 
 The first time he heard that sound in Urbino's antechamber, it came wrapped in silk.
 
@@ -70,9 +70,9 @@ Not ducal mint. Venetian. Heavy. Real.
 
 "For ink and sand," he said. "Letters are costly. I know. I spend half my life paying men like you to write mine."
 
-The coin sat between them like a dropped knife.
+The coin sat between them. It was a heavy piece, Venetian mint, worth perhaps a month of a scribe's wages. To Giacomo, it was money he would not miss by morning. To Bertoldo, it was an exact measurement of how cheaply the merchant believed the gate could be bought.
 
-Bertoldo did not glance at it.
+He did not glance at it.
 
 "You are mistaken about my duties," he said. "I do not take coin. I take petitions. If your proposal concerns the Duke, it will reach him. If it does not, no coin will change that."
 
@@ -134,7 +134,7 @@ He set the parchment down, steepling his fingers.
 
 "What do you make of it?" he asked.
 
-Bertoldo resisted the reflex to say *it depends*.
+Bertoldo resisted the reflex to say *it depends*.
 
 "It is profitable," he said. "In the short term. The guild is lazy. Giacomo is not. He would squeeze more coin from the same wool. Enough to pay us more and still get rich himself."
 
@@ -170,7 +170,9 @@ He said it without emphasis, but the Duke caught it.
 
 "Why?"
 
-"Because if I take coin from anyone who seeks your ear," Bertoldo said, "I will soon be working for them, not for you."The Duke held Bertoldo's gaze, his eyes narrowing thoughtfully.
+"Because if I take coin from anyone who seeks your ear," Bertoldo said, "I will soon be working for them, not for you."
+
+The Duke held Bertoldo's gaze, his eyes narrowing thoughtfully.
 
 "Giacomo da Rimini believes profit justifies access," he said. "You believe duty restricts it."
 
@@ -184,7 +186,7 @@ Federico raised an eyebrow.
 
 "You would keep him," he said.
 
-"At a distance," Bertoldo replied. "Give him a contract, but a limited one." Limited. Narrow. One product. One route. No guild monopoly. No exclusive rights. Enough profit to keep him busy. Not enough power to make him necessary.
+"At a distance," Bertoldo replied. "Give him a contract, perhaps. Limited. Narrow. One product. One route. No guild monopoly. No exclusive rights. Enough profit to keep him busy. Not enough power to make him necessary."
 
 "And access?" the Duke asked.
 
@@ -220,7 +222,7 @@ Five years. Limited volume. Fixed terms. Renewed only at our pleasure.
 
 Federico's eyes glinted.
 
-"You will see that he never forgets which door he stands before, and whose hand, under God, holds the key.ds the key."
+"You will see that he never forgets which door he stands before, and whose hand, under God, holds the key."
 
 Giacomo took the news with impeccable grace.
 
@@ -244,7 +246,7 @@ He watched who came and went from Giacomo's rented palazzo near the market squar
 
 He did not forbid it. He noted it.
 
-*The man who buys his way into the wool will try to buy his way into the ear. But he cannot do both at once if you make him choose.*
+*The man who buys his way into the wool will try to buy his way into the ear,* the cipher whispered. *But he cannot do both at once if you make him choose.*
 
 The test came in the third year.
 
@@ -270,7 +272,7 @@ He glanced at his fellows.
 
 "You object to higher standards?" Bertoldo asked.
 
-"We object to standards we do not set, by the saints. Our apprentices learn his taste, not ours.is taste, not ours. Our best men spend more time correcting for his whims than refining our craft. We become servants to his market, not masters of our own."
+"We object to standards we do not set, by the saints. Our apprentices learn his taste, not ours. Our best men spend more time correcting for his whims than refining our craft. We become servants to his market, not masters of our own."
 
 Another guildsman spoke up–a dyer, judging by the purple stains on his fingers.
 
@@ -324,7 +326,9 @@ Giacomo's smile was pure ivory.
 
 "And your own," Bertoldo said.
 
-"Of course," Giacomo said. "Men who serve well should profit. As you yourself must know."The implication hung there, shaped with deliberate precision: *You profit too. In influence. In proximity. Do not pretend you are different from me.* In influence. In proximity. Do not pretend you are different from me.*
+"Of course," Giacomo said. "Men who serve well should profit. As you yourself must know."
+
+The implication hung there, shaped with deliberate precision: *You profit too. In influence. In proximity. Do not pretend you are different from me.*
 
 Bertoldo let it pass.
 
@@ -394,25 +398,18 @@ He sat at his small table beneath the eaves, beeswax candle flaring in the draft
 
 *1466. Giacomo da Rimini's Second Petition.*
 
-*Today I refused to carry a profitable proposal to the Duke. Not because it would fail, but because it would succeed too well for the wrong man.Giacomo is  the servant princes cherish most. He offers more coin with less effort. He dresses his self-interest in the Duke's prosperity so skillfully that even the ledger nods along. He is also a servant who, if left unchecked, will become the sole voice the Duke hears on any matter passing through his hands.Discovery: The gatekeeper does not exclude the unworthy alone. He must also restrain the overly competent whose loyalty runs first to their own enterprise. There is a species of danger more subtle than the assassin's knife or the noble's open threat. It is the man who becomes indispensable in one narrow domain and then uses that indispensability to claim the prince's ear in all things.*
+*Today I refused a proposal not because it would fail, but because it would succeed too well for the wrong man. Giacomo offers more coin with less effort, dressing his self-interest in the Duke's prosperity so skillfully that even the ledger nods along.*
 
-*If I had carried Giacomo's petition today, the Duke would likely have granted it. The numbers are good. The promise is real. But attached to the profit is a hook: a permanent right to set prices, to define quality, to decide which guild masters thrive and which starve. With that hook comes a quiet expectation of private counsel. Invitations to speak alone. Requests for 'just a moment' that grow, over years, into habit.*
+*Discovery: The most dangerous monopoly is not of wool, but of hearing. The man who becomes indispensable in one narrow domain will inevitably use it to claim the prince's ear in all things.*
 
-*Princes do not notice when one voice begins to dominate their hearing. They simply grow used to the flavor of their counsel, the way a man who always eats with too much salt forgets what bread truly tastes like. By the time they realize they hear only one perspective, that perspective has already shaped their world.*
+*Princes do not notice when one voice begins to dominate. They simply grow used to the flavor of their counsel, the way a man who always eats with too much salt forgets what bread truly tastes like.*
 
-*My work is to keep their diet varied. To ensure that no single man can starve the others of oxygen. This means saying no not only to fools and flatterers, but also to men like Giacomo–whose talent I admire, whose usefulness I require, and whose intimacy with the throne I must prevent.*
+*The gatekeeper who judges access by merit alone will soon find merit arrayed against him. If I admit men solely for their effectiveness, I create a new standard at the gate: efficiency as entitlement. This is why I say no to men like Giacomo–whose talent I admire, whose usefulness I require, and whose intimacy with the throne I must prevent.*
 
-*There is a cost. He hates me now. Not for any injury I have done him, but for the injury I have prevented him from doing. In his mind, I have stolen riches from both of us. In truth, I have preserved the Duke's freedom to hear other men. He will never thank me for this. Nor will Giacomo. They stand, for once, on the same side.*
-
-*The gatekeeper who judges access by merit alone will soon find merit arrayed against him. Men of skill do not enjoy being told that their skill is welcome, but their presence is not. Yet if I begin to admit them solely for their effectiveness, I will have created a new standard at the gate: efficiency as entitlement.*
-
-*The rule I extract tonight is this: No man who profits directly from controlling a prince's resource may be allowed to control that prince's ear about that resource. Let the wool merchant speak to the treasurer, the captain to the master of horse, the banker to the steward. The prince must hear of each domain from at least two mouths, or he hears only the echo of the man who feeds him.*
-
-*Those who read this years from now, if anyone does, will say that Giacomo's like are inevitable. They are right. But inevitability is not sovereignty. My task is not to banish such men. It is to bind them. To keep them always one door away from the throne, however loudly they knock.*
+*The rule I extract tonight is this: let the wool merchant speak to the treasurer, the captain to the master of horse. The prince must hear of each domain from at least two mouths, or he hears only the echo of the man who feeds him.*
 
 He flexed his jaw until it clicked, a small, sharp sound in the quiet room.
 
-In the palazzo below, the looms of Urbino clattered on into the night, weaving cloth that would, for now, pass through many hands before it reached the world.
+In the palazzo below, the looms of Urbino clattered on into the night. The cloth would pass through many hands before it reached the world.
 
-None of those hands, yet, could touch the Duke's ear without passing first through Bertoldo's.
-
+But for now, the ear of the Duke remained a market Giacomo da Rimini could not price.
