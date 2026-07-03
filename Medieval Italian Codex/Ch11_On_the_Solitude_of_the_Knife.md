@@ -62,7 +62,7 @@ Federico drummed his fingers on the table–a habit he had when thinking through
 
 The duke looked up sharply.
 
-"I should send someone else," Bertoldo said. "But I need to know who *can* be sent. Which means I need to create someone capable of being sent."
+"I should send someone else," Bertoldo said. "But I need to know who *can* be sent. Which means I need to create someone capable of being sent."
 
 "You want to train Marco," Federico said. It was not a question.
 
@@ -164,7 +164,7 @@ He met Federico's eyes.
 
 He gestured toward the map where the conspiracy was marked.
 
-"Marco would investigate honestly," Bertoldo said. "He would report accurately. But if he found evidence implicating someone powerful–someone with power over his family, or his future–I don't yet know that he would bring me that evidence rather than burying it to protect himself. I *think* he would. But I don't *know*."
+"Marco would investigate honestly," Bertoldo said. "He would report accurately. But if he found evidence implicating someone powerful–someone with power over his family, or his future–I don't yet know that he would bring me that evidence rather than burying it to protect himself. I *think* he would. But I don't *know*."
 
 "And you?" Federico asked.
 
@@ -337,3 +337,4 @@ The fire crackled. The candles burned low.
 And judgment, he knew, could not be taught.
 
 It could only be earned.
+
