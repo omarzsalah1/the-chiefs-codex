@@ -136,7 +136,7 @@ Federico's jaw tightened.
 
 "You wish me to choose a side," he said.
 
-"I wish you to recognize that choosing 'no side' is still a side," Bertoldo replied. "Only one that leaves everyone free to treat you as obstacle rather than ally."
+"I wish you to recognize that the man who takes no side simply makes himself the center of the target," Bertoldo replied.
 
 The Duke walked slowly to the map and studied it, hands clasped behind his back.
 
@@ -248,7 +248,7 @@ He returned to his cramped room, lit his candle, and opened the cipher journal.
 
 *When I advise Federico to offend Milan slowly, to disappoint Venice without provoking war, to charm Florence while denying it garrisons, I am not neutral. I am choosing who will hate us most and least. I am choosing the direction from which danger will first come.*
 
-*One day, when enemies stand at these walls, they will not say: 'Urbino fell because its prince chose badly.' They will say: 'Urbino fell because its gatekeeper counseled this path or that.' The chain of blame is as narrow as the passage I guard.*
+*One day, when enemies stand at these walls, they will not say: 'Urbino fell because its prince chose badly.' They will say: 'Urbino fell because its gatekeeper counseled this path or that.'*
 
 *If that is to be my portion, then let my bias at least be honest. I will pile weights on the scale always in favor of the office: whoever preserves the independence of the throne, even if it shrinks, even if it suffers, even if it is forced into ugly compromises, will have my support. Whoever threatens to turn this city into a pawn–friend or foe, ally or kin–will find me turning the key against them.*
 
@@ -262,4 +262,4 @@ Inside, ink dried.
 
 In years to come, when chroniclers wrote of Federico's deft navigation between Milan and Venice, between Rimini and Florence, they would marvel at his balance. Some would call it neutrality, not understanding that he had abandoned that illusion long before their books began.
 
-None would name the man who had taught him to juggle.
+None would record the clerk who had tipped the scales.
