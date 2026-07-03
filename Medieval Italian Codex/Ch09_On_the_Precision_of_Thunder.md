@@ -78,7 +78,7 @@ Federico's gaze sharpened.
 
 They walked in the upper cloister, where the winter air cooled the heat of words.
 
-"Men believe temper is a storm. They think it comes when it will, smashing whatever lies beneath. They endure it, curse it, wait for it to pass. But Federico's anger cannot be a storm. It must be a tool. Today he roared at Rinaldi and Orsini without purpose, without design. He showed them that a single noise could topple his patience. He showed them weakness. I must teach him to tune his rage—to make it precise, deliberate, useful.t for it to pass."
+"Men believe temper is a storm," Bertoldo said. "They think it comes when it will, smashing whatever lies beneath it. They endure it, curse it, wait for it to pass."
 
 He glanced at the Duke.
 
@@ -100,7 +100,7 @@ Federico stopped.
 
 Bertoldo obeyed.
 
-"Today," he said, "you showed Rinaldi and Orsini that a single noise could topple your patience. You let them see that your decisions can be driven by exhaustion as much as by judgment. God knows, a prince must seem more than mortal."
+"Today," he said, "you showed Rinaldi and Orsini that a single noise could topple your patience. You let them see that your decisions can be driven by exhaustion as much as by judgment."
 
 He held the Duke's gaze.
 
@@ -108,9 +108,9 @@ He held the Duke's gaze.
 
 Federico's jaw flexed.
 
-"What would you have had me do, by God? Sit in silence until they bored themselves into agreement?o agreement?"
+"What would you have had me do?" he asked. "Sit in silence until they bored themselves into agreement?"
 
-"No," Bertoldo said. "I would have had you end the council early. Without decision. With courtesy. And then, God willing, brought the matter to me. And then brought the matter to me."
+"No," Bertoldo said. "I would have had you end the council early. Without decision. With courtesy. And then brought the matter to me."
 
 Federico snorted.
 
@@ -150,7 +150,7 @@ Bertoldo spoke with them first.
 
 He slid a folded parchment across the desk—scraped thin enough to see shadow through it, the kind that cost a day's wages to prepare.
 
-"These," he said, "are the sums your servants have received, season after season. They are already paid, Your Grace. Only not by you."
+"These," he said, "are the records of our mill. The grain counts. The tithes sent to the church. The bread priced below profit so that men did not riot."
 
 He hesitated.
 
@@ -222,7 +222,7 @@ Orsini's mouth compressed.
 
 "Coward," he said.
 
-"Yes," Bertoldo said. "Hang him, by God, and the others will learn that you can survive hunger, and even the Duke's anger–but not the presumption of lying to his face."
+"Yes," Bertoldo said. "Hang him, and the others will learn that you can survive hunger, and even the Duke's anger–but not the presumption of lying to his face."
 
 "And the town?" Orsini asked. "Do we flay them as well to teach this lesson?"
 
@@ -312,13 +312,13 @@ Rinaldi glanced at him.
 
 That night's cipher was brief.
 
-1469. On Tuning the Princes Fury.
+1469. On Tuning the Prince's Fury.
 
 The court believes the Duke's anger has softened. It has not. It has been re-strung.
 
 I have learned that a prince's temper is like a great bow. Drawn without aim, it shreds the archer's hand and frightens the bystanders. Drawn with care, loosed at the moment of his choosing, it pins the very man it must–and warns the rest.
 
-Today, Federico hanged one man instead of damning a town. He still spoke harshly. He still showed his teeth. But he did so in the direction we chose.
+Today, Federico hanged one man instead of damning a town. He still spoke harshly. He still showed his teeth. But he did so in the direction the ledger demanded.
 
 The lesson for the gatekeeper is simple, and terrible.
 
@@ -328,7 +328,6 @@ Give him a coward to punish when his pride is wounded. Give him a liar to denoun
 
 For if you allow that, you will soon have no honest messengers left–only flatterers who tell him the weather is fine while the flood rises at his door.
 
-Today, I watched a storm break where we had set the drain.
+Today, I watched a storm break where a drain had been set.
 
 The roof still leaked. But the house did not flood.
-
