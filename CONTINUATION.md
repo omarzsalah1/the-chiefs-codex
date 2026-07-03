@@ -1,7 +1,7 @@
 # CONTINUATION.md — THE CHIEFS CODEX · Phase K (Kundera Revision)
 
 **Session:** CODEX-K1 · 2026-07-02 → 2026-07-03 · Cowork
-**Repo state at handoff:** `omarzsalah1/the-chiefs-codex` master @ `084f332` (chain this session: `af0dae5` → `2af7c39` → `ddbaeea` → `70245ad` → `d1f50c6` → `c087846` → `e137581` → `e128e6a` → `084f332` → `7fd5754` [Ch5 correction] → latest [Ch6 pass])
+**Repo state at handoff:** `omarzsalah1/the-chiefs-codex` master @ `66e5bfd` (chain this session: `af0dae5` → `2af7c39` → `ddbaeea` → `70245ad` → `d1f50c6` → `c087846` → `e137581` → `e128e6a` → `084f332` → `1ba0bd5` [Ch1–4 handoff] → `3cd0eac` [Ch5 Pass1 2/7] → `9505e6e` [Ch5 addendum 5/7] → `7fd5754` [Ch5 correction, 6/7 CLOSED] → `66e5bfd` [Ch6 Pass1 CLOSED 3/7] → *Ch7 pushed this turn*)
 **Read order on pickup:** `CLAUDE.md` (orientation + rulings) → this file → `Medieval Italian Codex/KUNDERA_PASS_LOG.md` (per-chapter state + SPENT inventory + reuse bank).
 
 ---
@@ -13,7 +13,7 @@
 | … | CODEX6 → CODEX16 | 2026-01-27 → 02-04 | Draft → 19-ch compile → 280-pp PDF (see manus-task-backups registry) |
 | … | CODEX-REDLINE-WS/-001/-002/-V2 | 2026-02-08/09 | 8 Manus redline workstreams; WS7/WS8 applied locally through 02-12 |
 | — | *(dormant Feb → Jul 2026)* | | |
-| S1 | **CODEX-K1** | 2026-07-02/03 | **Phase K setup + Ch1–Ch6 Pass 1 complete** |
+| S1 | **CODEX-K1** | 2026-07-02/03 | **Phase K setup + Ch1–Ch7 Pass 1 complete (Part I done, Part II underway)** |
 
 ## 2. What happened (CODEX-K1)
 
@@ -26,7 +26,8 @@
 7. **Ch4 Pass 1 — CLOSED 5/7.** **Cipher-whisper device discovered stripped by WS waves (3 instances in published, 0 in WS8) — 2 of 3 RESTORED** ("the cipher whispered…"); "wire"→"snare" re-vehicle; divided-allegiance thesis cut; journal echo-trim + shards cut; San Bernardino + warning-line restored as published dialogue. M-batch: 4 splices.
 8. **Ch5 Pass 1 — CLOSED 6/7.** Ending-formula three-peat broken (K5-02, new verb + chapter's own juggler image); reviewer addendum (journal trim, kicker re-synthesized to "tipped the scales," "no side" line sharpened); reviewer follow-up correction (K5-04b) caught that the first journal trim missed the actual self-mythologizing line ("Urbino fell…") — verified independently against the live file, cut it, preserved the load-bearing material the reviewer's own full rewrite would have cut.
 9. **Ch6 Pass 1 — CLOSED 3/7. Cipher-whisper device now 3 of 3 RESTORED book-wide** (the third instance, "the man who buys his way into the wool…the ear," was in this chapter). Heaviest mechanical damage yet (6 corruption sites). Reviewer supplied three proposals (coin-as-audit reframe, journal compression, kicker desanctifying Bertoldo's name) before formal labels arrived on the original scan — all three adapted rather than applied verbatim (period-language fix on the coin line; narrower journal cuts preserving the "not territorial" tricolon; kicker applied as proposed, and correctly diagnosed as a fingerprint-consistency break, not just a tone problem). Aphorism SPENT (monopoly/hearing). The "will never thank me" refrain is now cut entirely book-wide (retired, not varied).
-10. **Working conventions established with Omar:** reviewer-feedback loop (he pastes outside review → I verdict each item vs doctrine → he labels → apply); rejections are normal and logged (period gate, Coup-in-dialogue, reveal-timing, joke-explaining all used as grounds); reviewer feedback that quotes specific lines gets verified against the live file before being treated as resolved or unresolved (Ch5 correction lesson); everything pushed same-day.
+10. **Ch7 Pass 1 — CLOSED 1/7 — opens Part II: The Tenure.** Lightest pass of the book so far: only 3 mechanical corruptions (vs Ch6's 6) and 1 scan candidate (K7-01, a Coup Rule cut — "But that was the point," certifying Bertoldo's own risk-taking as deliberately clever). Journal already well-calibrated on its own — no manifesto-drift, no aphorism needed. Confirmed the register dials still fit now that the book has shifted from Part I to Part II. Ending-formula watchlist item now reads as resolved: three different kicker shapes in a row (Ch5, Ch6, Ch7), no reversion to the old template.
+11. **Working conventions established with Omar:** reviewer-feedback loop (he pastes outside review → I verdict each item vs doctrine → he labels → apply); rejections are normal and logged (period gate, Coup-in-dialogue, reveal-timing, joke-explaining all used as grounds); reviewer feedback that quotes specific lines gets verified against the live file before being treated as resolved or unresolved (Ch5 correction lesson); everything pushed same-day.
 
 ## 3. Chapter scoreboard
 
@@ -39,7 +40,8 @@
 | 4 | Handing Knives to Princes | **CLOSED** | 5/7 | unspent | Cipher device restored ×2 |
 | 5 | Choosing Your Executioner | **CLOSED** | 6/7 | unspent | Ending-formula 3-peat broken (K5-02); reviewer addendum (K5-04/05/06) + correction (K5-04b, "Urbino fell…" self-mythology line reviewer caught had survived); cipher-whisper #3 pinned to Ch6 |
 | 6 | Danger of Useful Men | **CLOSED** | 3/7 | SPENT (monopoly/hearing) | Cipher-whisper #3 restored — device now 3/3 book-wide. "Will never thank me" refrain cut entirely (retired, zero instances left). Heaviest mechanical damage yet (6 sites) |
-| 7–19 | … | untouched | — | open | See CLAUDE.md §1 table |
+| 7 | Price of Clean Hands | **CLOSED** | 1/7 | unspent | Lightest pass yet — only 1 scan candidate (Coup Rule cut), 3 mechanical fixes. Journal already well-calibrated, no manifesto-drift. Opens Part II; dials confirmed still fit |
+| 8–19 | … | untouched | — | open | See CLAUDE.md §1 table |
 
 ## 4. Regression guard (do not break)
 
@@ -50,13 +52,13 @@
 - **Locked leave-alones per chapter:** listed in each chapter's scan section of the log — do not gild.
 - **Advisor discipline:** proposer≠evaluator; advisor is never Claude; ≤1 firing between rounds per chapter; **rotation state: gpt-5.5 used (Ch3) → next firing must be a different seat (deepseek/deepseek-v4-pro is Innovation seat; mechanical SPENT-check mandatory for it)**; run calls in e2b (workspace shell 45s cap kills them); log to `audit_reports/`.
 
-## 5. Files (all VERIFIED, all pushed)
+## 5. Files (all VERIFIED, all pushed @ 084f332)
 
 | File | Role |
 |------|------|
 | `CLAUDE.md` | Orientation + rulings (§7) + Kundera protocol (§6) |
 | `CONTINUATION.md` | This file |
-| `Medieval Italian Codex/Ch01…Ch19, 00_FRONT_MATTER.md` | Working text (Ch1–6 revised) |
+| `Medieval Italian Codex/Ch01…Ch19, 00_FRONT_MATTER.md` | Working text (Ch1–4 revised) |
 | `Medieval Italian Codex/KUNDERA_PASS_LOG.md` | Per-chapter passes, labels, as-applied records, SPENT, reuse bank, arc watchlist |
 | `Medieval Italian Codex/KUNDERA_VOICE_FILE.md` | Lens doctrine (Falk-drafted; Codex adaptation = CLAUDE.md §6) |
 | `Medieval Italian Codex/audit_reports/ch03_advisor_2026-07-02.md` | Advisor provenance + hit-rate log |
@@ -95,8 +97,8 @@
 
 ## 9. Next priority
 
-**Ch7 Pass 1 — "On the Price of Clean Hands" (1467, opens Part II: The Tenure).** Workflow: (1) Read `Medieval Italian Codex/Ch07_On_the_Price_of_Clean_Hands.md`; (2) collate vs `THE_CHIEFS_CODEX_PUBLISHED_SOURCE.md` (Ch7 begins published L1537) — expect mechanical corruption; Ch6 ran heavier than Ch4/Ch5 (6 sites), so don't assume damage is tapering off; (3) five-category scan + dial/Coup/SPENT checks — first Part II chapter, so also sanity-check whether the register dials still feel right now that the book shifts from "the Ascent" to "the Tenure" (CLAUDE.md §6 says recalibrate if anything feels off, not just after Ch1); (4) candidate table → Omar labels; (5) apply ≤7, seam-check, log, push. Cipher-whisper device is now fully restored (3/3, closed as of Ch6) — no outstanding restoration debt carried into Ch7. The "will never thank me" refrain is retired book-wide (cut, not varied, in Ch6) — do not casually reintroduce it. Omar's reviewer has been engaging chapter-by-chapter with detailed craft notes before formal labels arrive; treat reviewer proposals as requiring the same verdict-against-doctrine treatment as always (adapt or reject with logged reasoning), not verbatim application — this has been the pattern for every chapter so far and Omar has consistently confirmed the adapted versions over the literal proposals.
+**Ch8 Pass 1 — "On the Architecture of Tension" (1468).** Workflow: (1) Read `Medieval Italian Codex/Ch08_On_the_Architecture_of_Tension.md`; (2) collate vs `THE_CHIEFS_CODEX_PUBLISHED_SOURCE.md` (Ch8 begins published L1905 — confirm Ch9's published start line to close the range; WS8 side starts L2124); mechanical damage has swung between 2 and 6 corruption sites per chapter so far (Ch5 2, Ch6 6, Ch7 3), no assumption either direction, collate in full; (3) five-category scan + dial/Coup/SPENT checks; (4) candidate table → Omar labels; (5) apply ≤7, seam-check, log, push. `VERY_PURGE_REDLINER.json` instances #22–23 fall in this chapter — check both against context same as prior chapters. No outstanding restoration debt (cipher-whisper 3/3 done; "will never thank me" refrain retired). Omar's reviewer continues to engage chapter-by-chapter with detailed craft notes, sometimes before formal labels arrive on the original scan — keep treating proposals as requiring verdict-against-doctrine (adapt or reject with logged reasoning), not verbatim application.
 
 ## 10. PICKUP command
 
-See chat / registry. On restore: read CLAUDE.md → this file → KUNDERA_PASS_LOG.md; verify Ch1–6 files match scoreboard (grep "Gratitude would imply I had a choice" Ch3, "cipher whispered" ×3 book-wide — Ch4 ×2 + Ch6 ×1, "The rescue had arrived" Ch2, "trimmed the candles and stayed" Ch1, "Since the choosing is mine" Ch5, "a market Giacomo da Rimini could not price" Ch6); confirm latest commit on master (this push adds the Ch6 pass + Ch5 K5-04b correction); then proceed to Ch7 scan.
+See chat / registry. On restore: read CLAUDE.md → this file → KUNDERA_PASS_LOG.md; verify Ch1–7 files match scoreboard (grep "Gratitude would imply I had a choice" Ch3, "cipher whispered" ×3 book-wide — Ch4 ×2 + Ch6 ×1, "The rescue had arrived" Ch2, "trimmed the candles and stayed" Ch1, "Since the choosing is mine" Ch5, "a market Giacomo da Rimini could not price" Ch6, "as if reluctant to be seen arriving together" Ch7); confirm repo @ 66e5bfd or later (latest push adds the Ch7 pass — 1/7, Coup Rule cut + 3 mechanical); then proceed to Ch8 scan.
