@@ -11,6 +11,9 @@ Planning note: WS7/WS8 enrichment concentrated in Part III — Ch13 (~6.5K w), C
 
 ## Removed lines available for reuse (cut, not lost)
 
+- Ch2 journal (cut in K2-01): "The court devours its accidents." — orphan maxim, unearned in Ch2; could earn a home in a later court-intrigue chapter (Ch6? Ch10?) if a scene supplies the accident.
+- Ch2 journal (cut in K2-01): the wind-and-sails expansion ("Fortune's child believes the wind will always fill his sails… he waits for the world to deliver what his name demands.") — usable late-book if Marcello's arc needs a retrospective echo.
+
 - Ch1 kicker (cut in K1-03): "Not a servant of men, but a servant of the office itself." — strong maxim, wrong placement (thesis-at-beat). Candidate home: a Part II maxim section or Ch19.
 - Ch1 L55 (cut in K1-01): the lion/fox-as-borrowed-roar interior formulation ("the lion's roar is borrowed… the Duke's voice, amplified through my throat"). Federico now owns lion/fox in-chapter; Bertoldo's borrowed-roar phrasing could resurface late-book with irony (when the roar is no longer borrowed).
 
@@ -20,8 +23,56 @@ Planning note: WS7/WS8 enrichment concentrated in Part III — Ch13 (~6.5K w), C
 |------|---------|-----------|---------------------------|---------------|-------|
 | 2026-07-02 | Ch1 | 4 labelable + 1 leave-alone inventory | 4 Strong yes (Omar) | 4 lens edits + M-1 quote fix | APPLIED + seam-checked. Aphorism slot used (ledger/struck). |
 | 2026-07-02 | Ch1 (addendum) | 3 syntax/rhythm proposals from Omar's review | 3 Strong yes (author-proposed) | K1-06/07/08 | **Ch1 Pass 1 at 7/7 edit cap — CLOSED.** Further Ch1 work = Pass 2. |
+| 2026-07-02 | Ch2 | 5 labelable + leave-alone inventory | K2-01/02/03 Strong yes, K2-04 yes, K2-05 leave alone (Omar) | 4 lens edits + M-2×3, M-5 | APPLIED + seam-checked. **No aphorism spent (cap ≠ quota; journal was over-supplied).** Ch2 Pass 1 CLOSED at 4/7. |
 
 **Addendum as-applied (author-proposed, 2026-07-02):** K1-06 opening em-dash chain broken into three sentences; "iron and acid" now lands as sentence-end judgment. · K1-07 'breadth of counsel' interior regularized to third-past negation pivot ("The courtiers called… They believed… But Bertoldo watched the Duke."); NOTE: closing maxim tense-harmonized "This is/It is" → "This was/It was theft disguised as service" — wording of the locked aphorism intact, tense changed for register consistency; flag to Omar. · K1-08 RESTORATION from published PDF: "The mathematics of violence presented themselves with crystalline clarity" (WS wave had degraded it to a double-"certainty" construction); restored published wording, not the review's paraphrase. Chapter now ≈1,424 w.
+
+---
+
+## Ch2 scan — 2026-07-02 (Pass 1) — APPLIED (K2-01/02/03 Strong yes; K2-04 yes; K2-05 ruled leave-alone: "That was the nature of fortune." stands)
+
+**As-applied record:** K2-01 journal now runs: Marcello-elegance entry → mud-and-mules entry → "*But the garrison stands.*" → "*Fortune's children never learn to row.*" → gale/calloused-hands → "beauty more loved / virtue necessary" close ("devours its accidents" orphan and the wind-and-sails expansion cut → reuse registry). · K2-02 "Not anger–something like wonder." · K2-03 "nuclear option" sentence deleted; bluff → knew-chain direct. · K2-04 sun clause cut at L29; kicker owns the sun. · M-2 paragraph breaks restored ×3 (L33/L73/L187 run-ons), M-5 double-name fixed. Net: 3,040 → 2,972 w. Seam checks pass.
+
+Register check: scene chapter (dial LOW–MED) + journal (archival organ) + kicker. The measurer's-detachment stance holds well already (L23 "Bertoldo didn't believe a word of it," L33 pen-never-faltering + "But he had.", L69 leverage tricolon, L87–89 beautiful-letters/plain-mare juxtaposition, L147 "The Duke sent supplies… I took care only to arrange transport"). **No new aphorism this pass — the slot is a cap, not a quota; the journal is already over-supplied.** Scan found compression work, one anachronism, one opacity repair.
+
+### K2-01 · L265–281 (journal entry) · Cat 3 inverted — COMPRESS THE OVERSTUFFED JOURNAL
+**Excerpt:** "*Discovery: The court devours its accidents.* / *Fortune's children never learn to row.* / *Fortune's child believes the wind will always fill his sails, and so he never learns to row. He charms, he smiles, he waits…*"
+**Why:** WS-era seam: the compressed maxim (L275) AND its own expansion (L277) both survive — the entry states the rowing insight twice. And L273 "The court devours its accidents" is unearned by this scene (nothing here about accidents) — an orphan from another draft. The strong close (L281 "beauty will always be more loved. Virtue must content itself with being necessary.") is diluted by the clutter before it.
+**Direction:** Cut L273 (orphan) and L277 (expansion). Keep: the Marcello/mud contrast entries, "*Fortune's children never learn to row.*", the gale sentence ("only the man with calloused hands moves the ship"), and the L281 close. Pure subtraction — the chapter practices its own Ch1 doctrine.
+**Checks:** Dial ✓ · SPENT ✓ (no new mint) · Coup Rule n/a.
+**Recommendation: Strong yes.**
+
+### K2-02 · L177 (Marcello's reaction) · Cat 2 — STOP DECODING MARCELLO
+**Excerpt:** "Understanding dawned on Marcello's handsome face. Not anger–he wasn't capable of that kind of smallness–but something like wonder."
+**Why:** The narration certifies Marcello's interior ("wasn't capable of that kind of smallness") — generosity-as-verdict. The measurer reports the observable and lets the reader decide whether the incapacity is grace or emptiness (the drift back to laughter at L191 already supplies the evidence). Opacity rule, Marcello edition.
+**Direction:** Trim the parenthetical certification; keep the dawn of understanding and "something like wonder."
+**Checks:** Recognition-stays-reader's-work ✓ · protects later Marcello development from early certification.
+**Recommendation: Strong yes.**
+
+### K2-03 · L125 (Benci scene) · anachronism + Coup-adjacent annotation — CUT
+**Excerpt:** "It wasn't a bluff. The Duke had that right. But it was a nuclear option—an action sure to poison relationships with every merchant in the region."
+**Why:** "Nuclear option" is a flat anachronism in a 1462 codex. And the sentence annotates the leverage's riskiness — explanation the next lines already render perfectly ("Benci knew it. And he knew that Bertoldo knew it. / But he also knew his debt was real.").
+**Direction:** Delete the "But it was a nuclear option…" sentence entirely. Keep "It wasn't a bluff. The Duke had that right." → straight into the knew-chain.
+**Checks:** De-annotation ✓ · period repair ✓.
+**Recommendation: Strong yes.**
+
+### K2-04 · L29 (Federico brightening) · image-system discipline — SAVE THE SUN FOR THE KICKER
+**Excerpt:** "Even Duke Federico seemed to brighten when Marcello entered a room, sunlight spilling in on the young man's heels."
+**Why:** The sun image is the kicker's property (L287–289: courtiers "like flowers turning toward the sun… he no longer looked toward the sun"). Pre-spending it at L29 (a WS sensory addition) dilutes the payoff.
+**Direction:** Trim the "sunlight spilling…" clause; keep "seemed to brighten." (brighten is glow, not yet sun).
+**Recommendation: Maybe.**
+
+### K2-05 · L287 (kicker) · thesis shaving — OPTIONAL
+**Excerpt:** "They would always gather around him. That was the nature of fortune."
+**Why:** "That was the nature of fortune." names what flowers-toward-the-sun already shows; borderline thesis-at-beat. Counter-argument: it formally closes the fortuna/virtù frame and is very short. Genuinely 50/50 — author's ear decides.
+**Direction:** If cut: "They would always gather around him." → straight to "But when Duke Federico needed something that actually mattered…"
+**Recommendation: Maybe.**
+
+### K2-06 · Leave-alone inventory (lock against gilding)
+L15 earned/inherited antithesis · L23 "didn't believe a word of it" · L33+35 pen-never-faltering + "But he had." (elliptical mark-my-words callback — deliberate, protect it) · L69 leverage tricolon · L87–89 letters/mare juxtaposition · L107 "heavy as mortar" · L147 self-erasure line · L219 fortuna/virtù speech (character voice) · L261–263 blistered-hands record (archival motif carries itself) · L293 "The man who rowed."
+
+### Mechanical batch (copyedit lane, auto-apply, outside K-budget)
+M-2: missing paragraph breaks after closing quotes at L33 ("…within the year."Bertoldo…), L73 ("…in time."Federico…), L187 ("…simple exchange."Marcello…) — WS8-C fixed the quotes but not the breaks. M-5: L119 "Bertoldo said. Bertoldo cleared" → "Bertoldo said. He cleared". M-6 (note only): bare en-dash scene dividers and L53 dash spacing — typographic pass.
 
 ---
 

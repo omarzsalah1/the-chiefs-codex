@@ -26,11 +26,13 @@ Within a month, the pattern became clear.
 
 Marcello was everywhere–at every gathering, every dinner, every moment when the Duke entertained visiting nobles. He had a gift for conversation that Bertoldo could only admire from a distance: the ability to make men feel important, to laugh at the moment that called for it, to remember the names of wives and children and ask after them with apparent sincerity.
 
-The courtiers loved him. Even Duke Federico seemed to brighten when Marcello entered a room, sunlight spilling in on the young man’s heels. The servants would have followed him into fire.
+The courtiers loved him. Even Duke Federico seemed to brighten when Marcello entered a room. The servants would have followed him into fire.
 
 Bertoldo, by contrast, remained what he had always been: a slight figure at a desk, keeping records, managing petitions, his presence noted only when someone needed something. His ink-stained fingers seemed darker next to Marcello's clean hands. His quiet voice seemed more colorless beside Marcello's warm baritone.
 
-"That Davanzati boy," one of the senior counselors remarked in the corridor outside the Duke's study, not bothering to lower his voice. "Now *that's* what a ducal secretary should look like. Good family, excellent connections. Mark my words, he'll be running this household within the year."Bertoldo, sitting at his desk ten feet away, continued writing, his face unreadable and his pen never faltering.
+"That Davanzati boy," one of the senior counselors remarked in the corridor outside the Duke's study, not bothering to lower his voice. "Now *that's* what a ducal secretary should look like. Good family, excellent connections. Mark my words, he'll be running this household within the year."
+
+Bertoldo, sitting at his desk ten feet away, continued writing, his face unreadable and his pen never faltering.
 
 But he had.
 
@@ -70,7 +72,9 @@ It wasn't elegant. It wasn't the work of a gentleman. It was leverage, applied d
 
 Marcello's expression shifted–just barely–from confidence to something that might have been distaste. "Your Grace, surely there are more... diplomatic approaches than threatening a merchant–"
 
-"I'm not threatening him," Bertoldo said. "I offer him a bargain he is already bound to strike. He gets debt relief. We get supplies. And Captain Monti gets them in time."Federico let silence settle between them, weighing their arguments. Marcello, standing tall and handsome in his crimson velvet, offering the solution that would please Florentine bankers and maintain proper mercantile relationships. Bertoldo, ink-stained and anonymous, offering the solution that would save soldiers' lives.
+"I'm not threatening him," Bertoldo said. "I offer him a bargain he is already bound to strike. He gets debt relief. We get supplies. And Captain Monti gets them in time."
+
+Federico let silence settle between them, weighing their arguments. Marcello, standing tall and handsome in his crimson velvet, offering the solution that would please Florentine bankers and maintain proper mercantile relationships. Bertoldo, ink-stained and anonymous, offering the solution that would save soldiers' lives.
 
 "How long?" Federico asked Bertoldo.
 
@@ -116,13 +120,13 @@ The door opened.
 
 Benci appeared a few minutes later, still fastening his robe, his thick neck flushed with annoyance. "Do you know what hour it is?"
 
-"I do," Bertoldo said. Bertoldo cleared his throat, the cold air having roughed his voice overnight, yet he spoke with unwavering steadiness. "I also know that you're three months behind on payments to the duchy. Six hundred florins, plus interest accruing. And I know that Duke Federico's garrison needs grain, arrows, and fodder by tomorrow evening."
+"I do," Bertoldo said. He cleared his throat, the cold air having roughed his voice overnight, yet he spoke with unwavering steadiness. "I also know that you're three months behind on payments to the duchy. Six hundred florins, plus interest accruing. And I know that Duke Federico's garrison needs grain, arrows, and fodder by tomorrow evening."
 
 Benci's expression shifted from anger to the careful neutrality of a man recognizing leverage when it appeared on his doorstep. "I don't have that kind of stock ready for immediate dispatch. My warehouses are organized for commercial–"
 
 "You have four warehouses in Gubbio. I've seen the inventory reports you file with the ducal tax office." Bertoldo met his eyes. "You have the stock. The question is whether you'd like your debt forgiven in exchange for immediate provision... or whether you'd prefer I return to Urbino and recommend the Duke exercise his right to seize your warehouses for non-payment."
 
-It wasn't a bluff. The Duke had that right. But it was a nuclear option—an action sure to poison relationships with every merchant in the region.
+It wasn't a bluff. The Duke had that right.
 
 Benci knew it. And he knew that Bertoldo knew it.
 
@@ -174,7 +178,7 @@ Bertoldo was aware of how he must look: mud-caked, exhausted, smelling of horse 
 
 "No," Bertoldo agreed. He lowered himself into his chair with measured deliberation, each movement precise to avoid the screaming protests of his muscles. "You won't receive replies for another two days. And the provisions won't arrive for three days after that. Captain Monti would have been in full retreat by then."
 
-Understanding dawned on Marcello's handsome face. Not anger–he wasn't capable of that kind of smallness–but something like wonder. "You went yourself."
+Understanding dawned on Marcello's handsome face. Not anger–something like wonder. "You went yourself."
 
 "Yes."
 
@@ -184,7 +188,9 @@ Understanding dawned on Marcello's handsome face. Not anger–he wasn't capable 
 
 "And you... negotiated..."
 
-"The quartermaster there owed the duchy money. I offered him debt relief in exchange for immediate provision." Bertoldo began sorting through the petitions that had accumulated on his desk. His hands were shaking–exhaustion, not fear this time–but he kept his movements steady. "It was a simple exchange."Marcello hesitated, clearly wanting to say something but not quite knowing what. Finally: "That was... by the saints, that was well done."
+"The quartermaster there owed the duchy money. I offered him debt relief in exchange for immediate provision." Bertoldo began sorting through the petitions that had accumulated on his desk. His hands were shaking–exhaustion, not fear this time–but he kept his movements steady. "It was a simple exchange."
+
+Marcello hesitated, clearly wanting to say something but not quite knowing what. Finally: "That was... by the saints, that was well done."
 
 "Thank you."
 
@@ -270,11 +276,7 @@ His hands ached as he wrote, the blisters weeping clear fluid that made the pen 
 
 *But the garrison stands.*
 
-*Discovery: The court devours its accidents.*
-
- *Fortune's children never learn to row.* 
-
-*Fortune's child believes the wind will always fill his sails, and so he never learns to row. He charms, he smiles, he waits for the world to deliver what his name demands.*
+*Fortune's children never learn to row.*
 
 *But when the gale fails–and it always fails–only the man with calloused hands moves the ship.*
 
