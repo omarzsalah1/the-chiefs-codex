@@ -248,9 +248,7 @@ He returned to his cramped room, lit his candle, and opened the cipher journal.
 
 *When I advise Federico to offend Milan slowly, to disappoint Venice without provoking war, to charm Florence while denying it garrisons, I am not neutral. I am choosing who will hate us most and least. I am choosing the direction from which danger will first come.*
 
-*One day, when enemies stand at these walls, they will not say: 'Urbino fell because its prince chose badly.' They will say: 'Urbino fell because its gatekeeper counseled this path or that.'*
-
-*If that is to be my portion, then let my bias at least be honest. I will pile weights on the scale always in favor of the office: whoever preserves the independence of the throne, even if it shrinks, even if it suffers, even if it is forced into ugly compromises, will have my support. Whoever threatens to turn this city into a pawn–friend or foe, ally or kin–will find me turning the key against them.*
+*Since the choosing is mine, then let my bias at least be honest. I will pile weights on the scale always in favor of the office: whoever preserves the independence of the throne, even if it shrinks, even if it suffers, even if it is forced into ugly compromises, will have my support. Whoever threatens to turn this city into a pawn–friend or foe, ally or kin–will find me turning the key against them.*
 
 *Neutrality, like youth, is a condition one only recognizes in its absence. I feel mine eroding. In its place comes something harder, narrower, more ruthless. Perhaps this is what they mean by 'becoming necessary.'*
 
