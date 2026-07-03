@@ -46,7 +46,7 @@ Later, in the quiet of the study, he turned to Bertoldo.
 
 "They will tear this duchy apart between them," he said. "Orsini with his fear of shadows on the passes, Rinaldi with his fear of numbers on the page."
 
-Bertoldo did not say *fear*. He said something worse.
+Bertoldo did not say *fear*. He said something worse.
 
 "They are both right, Your Excellence," he said. "Which makes them more dangerous than if one were simply a fool."
 
@@ -78,7 +78,9 @@ He pointed to the eastern marches.
 
 "And Rinaldi?" Federico asked.
 
-"Rinaldi's loyalty is purchased in calculation," Bertoldo said. "That is lighter coin. It flows to where it yields best return. If you deny him now, he will resent you. But if the duchy prospers despite his displeasure, his resentment will turn inward. He will ask why his forecasts failed."Federico let his gaze linger on him.
+"Rinaldi's loyalty is purchased in calculation," Bertoldo said. "That is lighter coin. It flows to where it yields best return. If you deny him now, he will resent you. But if the duchy prospers despite his displeasure, his resentment will turn inward. He will ask why his forecasts failed."
+
+Federico studied him.
 
 "You propose to choose the soldier over the banker," he said.
 
@@ -92,7 +94,9 @@ He went to Rinaldi instead.
 
 They met in the treasurer's chamber, surrounded by shelves of ledgers bound in worn leather.
 
-"You wish to speak of my reluctance," Rinaldi said, tapping the spine of a book. "I assure you, it is purely numerical. The numbers object. I am but their voice."Bertoldo's gaze lingered upon him before he spoke.
+"You wish to speak of my reluctance," Rinaldi said, tapping the spine of a book. "I assure you, it is purely numerical. The numbers object. I am but their voice."
+
+Bertoldo regarded him for a moment.
 
 "You are not wrong," he said.
 
@@ -114,7 +118,7 @@ He picked up a ledger at random, flipped it open.
 
 "That is why we have Orsini," Rinaldi said dryly.
 
-"No," Bertoldo said. "That is why we have *you*."
+"No," Bertoldo said. "That is why we have *you*."
 
 He let the words hang.
 
@@ -144,7 +148,7 @@ Rinaldi stared.
 
 "You abdicate the choice?" he said. "Onto me?"
 
-"I delegate *the frame*," Bertoldo said. "Not the decision. Bring me three options–three combinations of fortification and commerce that you can defend with a clear conscience. I will bring them to the Duke. He will choose one. And when Orsini curses us this winter because his favorite pass has not yet been rebuilt, I will remind him that you ensured another was."
+"I delegate *the frame*," Bertoldo said. "Not the decision. Bring me three options–three combinations of fortification and commerce that you can defend with a clear conscience. I will bring them to the Duke. He will choose one. And when Orsini curses us this winter because his favorite pass has not yet been rebuilt, I will remind him that you ensured another was."
 
 Rinaldi frowned.
 
@@ -160,7 +164,9 @@ He let the treasurer consider.
 
 Rinaldi sighed.
 
-"You are an irritating man," he said. "I will prepare the options." "Consider, as you do," Bertoldo added, lowering his voice to a cautious murmur, "that if Milan crosses the ridge and marches unopposed, there will be no ledgers left to balance."
+"You are an irritating man," he said. "I will prepare the options."
+
+"Consider, as you do," Bertoldo added, lowering his voice to a cautious murmur, "that if Milan crosses the ridge and marches unopposed, there will be no ledgers left to balance."
 
 Rinaldi's hand paused on the leather.
 
@@ -198,7 +204,7 @@ Orsini's eyes flashed.
 
 "Quicker still is the road no one watches," Orsini snapped.
 
-"Rinaldi chose," Bertoldo lied, just a little. "Given the numbers you both provided, he argued that we could not harden all three without bankrupting the duchy. I agreed. The Duke agreed. He will sign the decree tomorrow."
+"Rinaldi ran the numbers," Bertoldo said, cleanly omitting his own role in framing them. "Given what you both provided, he proved we could not harden all three without bankrupting the duchy. I agreed. The Duke agreed. He will sign the decree tomorrow."
 
 Orsini stared at him.
 
@@ -248,9 +254,9 @@ Orsini smiled, slow and carnivorous.
 
 "You always were good with traps," he said.
 
-Bertoldo inclined his head.
+Bertoldo picked a speck of mud from his sleeve.
 
-"It is my trade," he said.
+"I am a notary's son, my lord," he said. "I do not lay traps. I merely tally what men owe each other."
 
 The decree, when it came, bore Federico's careful hand.
 
@@ -278,7 +284,7 @@ Rinaldi hesitated.
 
 "And?"
 
-"I find," Rinaldi admitted, "that indispensability has a taste very like entrapment."
+"I find," Rinaldi admitted, "that indispensability has a taste like entrapment."
 
 Bertoldo smiled without humor.
 
@@ -294,7 +300,7 @@ Rinaldi complained more–but about tariffs and tolls, not walls.
 
 In the spring, when merchants saw that caravans passed unmolested and the grain in the warehouses had not rotted, their grumbling softened. They still cursed the tax collectors, but they cursed them under their breath.
 
-The coalition was not peace. Love would have been simpler. This was heavier.
+The coalition was not peace. It was not love. It was something weightier.
 
 It was mutual dependence.
 
@@ -308,21 +314,14 @@ Orsini fears foreign steel. Rinaldi fears empty ledgers. The Duke fears both, an
 
 I have discovered that the gatekeeper's work is not to keep danger out alone, but to keep daggers turned outward.
 
-When I give Orsini a wall and Rinaldi a ledger that justifies it, I do not reconcile them. I bind them. Orsini cannot now condemn the treasury without condemning the figures he himself helped choose. Rinaldi cannot now sneer at the walls without admitting that his own numbers would have left them sand.
+When I give Orsini a wall and Rinaldi a ledger that justifies it, I do not reconcile them. I bind them.
 
-The prince believes he has chosen a balanced path. In truth, I have placed him where the three forces that could topple him must lean on him instead of against him.
-
-Men speak of alliances like oaths sworn in chapels. They are not. They are contracts written in necessity. The noble who joins you because he loves you will leave you for the same reason when his love cools. The noble who joins you because he has no profitable alternative will fight to keep that necessity alive.
+Men speak of alliances as if they were oaths made in chapels. They are not. They are contracts written in necessity. The noble who joins you because he loves you will leave you for the same reason when his love cools. The noble who joins you because he has no profitable alternative will fight to keep that necessity alive.
 
 Someone might say this is cynicism. It is not. It is accounting.
-
-Coalitions among the nobles must be balanced with the precision of any ledger. Each man must see that his debit in one column becomes his credit in another. Each must believe that defection would cost more than obedience.
 
 Today, Orsini cursed Rinaldi less than yesterday. Rinaldi argued with Orsini instead of with me. Federico slept without calling for his armor.
 
 This is what it means to succeed in my work.
 
-No one will remember who placed the pebbles on the map.
-
-They will remember only that the passes did not fall.
-
+The court calls it a masterstroke of balance. They do not understand the physics of the arch. To be the fulcrum between such crushing weights is not power. It is merely the guarantee that when the structure finally collapses, you will be the first thing ground to dust.
