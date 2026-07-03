@@ -386,7 +386,7 @@ His right hand ached–the dull, familiar pain that came when he had clenched it
 
 *Today I placed another knife in my master's hand. Not a foreign insult this time, but a domestic fissure. The first cut between loyalty to the house and loyalty to the realm.*
 
-*It is a dangerous habit, this business of handing knives to powerful men. One day, he may decide that the most convenient throat to cut with it is mine. But if I spare him the sight of the blade, I condemn him to walk barefoot in a room full of shards.*
+*It is a dangerous habit, this business of handing knives to powerful men. One day, he may decide that the most convenient throat to cut with it is mine.*
 
 *Divided allegiance is a crack in the wall. Left alone, it widens with every season until daylight pours through and enemies walk in. My work is not to prevent cracks–that is beyond any man–but to make sure the prince sees them before the siege engines arrive.*
 
