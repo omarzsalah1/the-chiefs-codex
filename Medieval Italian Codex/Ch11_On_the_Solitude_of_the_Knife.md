@@ -62,7 +62,7 @@ Federico drummed his fingers on the table–a habit he had when thinking through
 
 The duke looked up sharply.
 
-"I should send someone else," Bertoldo said. "But I need to know who *can* be sent. Which means I need to create someone capable of being sent."
+"I should send someone else," Bertoldo said. "But I need to know who *can* be sent. Which means I need to create someone capable of being sent."
 
 "You want to train Marco," Federico said. It was not a question.
 
@@ -74,7 +74,9 @@ The duke looked up sharply.
 
 "And if he fails anyway?"
 
-"Then we'll know he's not the man for future embassies. And we'll negotiate emergency grain from Florence at worse terms."Federico let silence settle before speaking.
+"Then we'll know he's not the man for future embassies. And we'll negotiate emergency grain from Florence at worse terms."
+
+Federico was silent for a long moment.
 
 "You're gambling with the winter food supply to test a subordinate's competence," he said.
 
@@ -98,7 +100,7 @@ It was a hard position. Bertoldo knew it was hard even as he argued for it.
 
 But the alternative was to keep every important task in his own hands until he collapsed under the weight of them–or until he died and left the duke with a court full of ministers who had never learned to act independently because they had never been allowed to.
 
-Federico held his gaze, weighing what lay beneath the words.
+Federico studied him.
 
 "You believe in the boy," he said.
 
@@ -142,7 +144,7 @@ Federico wanted to send Marco to investigate.
 
 Federico raised an eyebrow. "You argued for his elevation. Now you deny him the chance to use it?"
 
-"This is different," Bertoldo said. "Milan was about negotiation–reading people, finding terms, making deals. This is about elimination. Discovering who is disloyal. Deciding who must be removed. Doing what needs to be done without the duke's explicit order, because plausible deniability matters."
+"This is different," Bertoldo said. "Milan was about negotiation–reading people, finding terms, making deals. This is about elimination. Discovering who is disloyal. Deciding who must be removed. Doing what needs to be done without the duke's explicit order, because a prince must never be made to answer for a command he never gave."
 
 He met Federico's eyes.
 
@@ -162,11 +164,13 @@ He met Federico's eyes.
 
 He gestured toward the map where the conspiracy was marked.
 
-"Marco would investigate honestly," Bertoldo said. "He would report accurately. But if he found evidence implicating someone powerful–someone with power over his family, or his future–I don't yet know that he would bring me that evidence rather than burying it to protect himself. I *think* he would. But I don't *know*."
+"Marco would investigate honestly," Bertoldo said. "He would report accurately. But if he found evidence implicating someone powerful–someone with power over his family, or his future–I don't yet know that he would bring me that evidence rather than burying it to protect himself. I *think* he would. But I don't *know*."
 
 "And you?" Federico asked.
 
-"I have no family for them to threaten. No future they can bargain with. I am bribed by nothing because I want nothing they can offer. Which makes me the only man in your court you can trust completely with the knowledge of who is betraying you."The duke flickering candle before speaking.
+"I have no family for them to threaten. No future they can bargain with. I am bribed by nothing because I want nothing they can offer. Which makes me the only man in your court you can trust completely with the knowledge of who is betraying you."
+
+The duke was quiet for a long moment.
 
 "That's a lonely position," he said finally.
 
@@ -204,7 +208,9 @@ When Bertoldo returned to the palace, Federico asked how the investigation had g
 
 "Handled how?"
 
-"They will not trouble you. And they will not know why."Federico held his gaze a heartbeat before nodding.
+"They will not trouble you. And they will not know why."
+
+Federico studied him for a moment, then nodded.
 
 He did not ask for details. He had learned, over the years, that some things were better left unspoken–not because they were shameful, but because speaking them would require acknowledging that they had been done.
 
@@ -248,11 +254,11 @@ But the hardest, most dangerous work–the work that involved making people disa
 
 Not because he enjoyed it. Not because he distrusted everyone else.
 
-But because the accumulation of such work was the price of keeping it away from others.
+But because the work had nowhere else to go.
 
-Some weights could not be shared. Some knowledge could not be distributed. Some actions had to be performed by a single hand, so that if they ever came to light, only one neck would be at risk.
+Some weights could not be shared. Some knowledge could not be distributed. Some actions could be performed by only a single hand, and that hand, by elimination, was his.
 
-This was the loneliness of the position. Not that he worked in isolation–he had ministers and assistants and trusted colleagues. But that the heaviest work, the work that would define his legacy and his guilt, was work he carried alone.
+This was the loneliness of the position. Not that he worked in isolation–he had ministers and assistants and trusted colleagues. But that the heaviest work, the work that would define his guilt, was work he carried alone.
 
 It had to be.
 
@@ -331,4 +337,3 @@ The fire crackled. The candles burned low.
 And judgment, he knew, could not be taught.
 
 It could only be earned.
-
