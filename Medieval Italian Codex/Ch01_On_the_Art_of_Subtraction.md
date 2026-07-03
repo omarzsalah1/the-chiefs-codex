@@ -42,7 +42,7 @@ The nobleman's hand moved to his sword hilt, and Bertoldo felt a flicker of cert
 
 But he did not move. And he did not raise his voice.
 
-My lord, when you draw that blade, you draw it not against a clerk, but against the Duke's will. And His Excellence, by God's grace, does not forgive easily.
+"My lord, when you draw that blade, you draw it not against a clerk, but against the Duke's will. And His Excellence, by God's grace, does not forgive easily."
 
 The words hung in the cold air between them.
 
@@ -52,7 +52,7 @@ The sword stayed in its scabbard.
 
 The nobleman hawked, spat on the floor near Bertoldo's feet, and returned to his place among the petitioners.
 
-Bertoldo sat down. His hands were shaking so badly he had to grip the edge of his desk to still them. But he had learned something in that moment–something that lodged beneath his ribs and would not leave: *I learned something today when Brancaleoni's hand went to his sword. I am not strong. I am not fearsome. But I do not need to be. When I spoke, I did not threaten him with my anger—I threatened him with Federico's. The gatekeeper must be a lion to those who would force entry, and a fox to those who would slip past. But the lion's roar is borrowed. It is the Duke's voice, amplified through my throat. Without that echo, I am nothing. A clerk in an antechamber. But with it, I can make a nobleman back down.*
+Bertoldo sat down. His hands were shaking so badly he had to grip the edge of his desk to still them. Something had happened in that moment—something lodged beneath his ribs that he could not yet name. *I am not strong. I am not fearsome. The sword stayed in its scabbard. Whatever stood between Brancaleoni and that door, it was not me.*
 
 That evening, after the last petitioner had been turned away and the antechamber had emptied, Duke Federico emerged from his study. He looked less exhausted now–an hour alone had restored something to him.
 
@@ -100,11 +100,13 @@ Federico returned to his study. The door closed behind him.
 
 Bertoldo sat in the empty antechamber as the beeswax candles burned low, their honey-sweet smoke mixing with the acrid tallow smell left by the petitioners' cheaper lights. His hands had stopped shaking. Certainty—sharp, unyielding—took root where the trembling had been.
 
-He took out a small leather journal–a blank one he'd purchased with his first week's wages–and opened it to the first page. In the margins, using the shorthand cipher he'd learned from his father's notary work, he wrote his first entry:
+He took out a small leather journal–a blank one he'd purchased with his first week's wages–and opened it to the first page. In the margins, using the shorthand cipher he'd learned from his father's notary work—a hand devised for records that must be kept and must not be read—he wrote his first entry:
 
 *1461. First Day at the Door.*
 
 *Fifty-three petitioners. One threat. The door held.*
+
+*A notary's son knows: a ledger is made true not by what is entered, but by what is struck.*
 
 *Discovery: I do not need to be stronger than the man with the sword. I need only to be the voice of the one behind the door. The nobleman did not retreat from me–he retreated from the Duke's authority, which I carried like a borrowed cloak.*
 
@@ -114,9 +116,9 @@ He took out a small leather journal–a blank one he'd purchased with his first 
 
 He closed the journal and locked it in his desk.
 
-Outside, in the Palazzo Ducale, fifty-three men went to their beds believing they had been denied access by mere custom. None of them understood that something had changed. The door that had once stood open to influence and pressure and aristocratic presumption had acquired a guardian who understood its true nature.
-
-Not a servant of men, but a servant of the office itself.
+Outside, in the Palazzo Ducale, fifty-three men went to their beds believing they had been denied access by mere custom.
 
 And for the first time that day, in his private chambers, Duke Federico da Montefeltro slept soundly.
+
+In the antechamber, the new gatekeeper trimmed the candles and stayed.
 
