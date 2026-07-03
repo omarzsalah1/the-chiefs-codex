@@ -248,9 +248,7 @@ Then he bent, righted the fallen chair, gathered the scattered documents, and re
 
 *But the wound is not only the prince's. Candor draws blood on both sides. The hand that lifts the knife does not escape the edge. Today I stood within reach of a raging man who could have killed me for the honesty I brought him. Tomorrow, I will stand there again.*
 
-*This is the tax of service: not coin, nor praise, but the acceptance that sometimes the only way to keep a prince from humiliation before the world is to watch him humiliate himself before you. You become the vessel for his worst moments, so that he need never display them to anyone else.*
-
-*He will never thank me for this. He should not. Gratitude would cheapen it. A prince must trust his gatekeeper as he trusts his armor: without thinking of the hands that hammered the plates.*
+*This is the tax of service: to be the vessel for his worst moments, so that he need never display them to anyone else. He will never thank me for this. Gratitude would imply I had a choice.*
 
 *The bearers of bad news die when princes confuse their comfort with their safety. I will not die that way. If I must die, let it be for having delivered a truth too sharp to be borne, not for having hidden a truth that would have saved him.*
 
