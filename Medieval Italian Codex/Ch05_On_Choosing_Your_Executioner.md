@@ -198,7 +198,7 @@ Federico's brow furrowed.
 
 "Not all at once," Bertoldo said. "In sequence. Enough from each that they can all claim you favor them, but not enough that any believes you owe them your throat."
 
-The Duke let his gaze linger on him.
+The Duke studied him.
 
 "And when one of them demands more?" he asked.
 
