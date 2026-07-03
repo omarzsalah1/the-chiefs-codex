@@ -58,7 +58,9 @@ Carlo blinked.
 
 "You will hear them?"
 
-"I will," Bertoldo said. "And more importantly, they will hear each other."They came in twos and threes, reluctant to be seen arriving together.
+"I will," Bertoldo said. "And more importantly, they will hear each other."
+
+They came in twos and threes, as if reluctant to be seen arriving together.
 
 By dusk, the small hall was half full. The air smelled of damp wool, tallow smoke, farro cooked down to paste—the thick porridge servants ate when the household allowance ran thin. Kitchen boys leaned against the wall beside chambermaids with reddened hands. A groom sat next to a copyist whose fingers still bore faint traces of ink. At the back, the captain of the watch stood with his arms folded, guarding the door even here.
 
@@ -102,7 +104,7 @@ Elena frowned.
 
 "Are you saying we are to be grateful for hunger?" Pietro demanded.
 
-"No," Bertoldo said. "I am saying you confuse *giver* with *owner*."
+"No," Bertoldo said. "I am saying you confuse *giver* with *owner*."
 
 He moved closer, so they had to look at him.
 
@@ -114,7 +116,7 @@ There was a stir. Someone muttered, "Both."
 
 He spoke the title without flourish, naming a fact of physics.
 
-"The noble," he went on, "buys something else. He buys the habit of seeing you as *his*. He buys the right to say, 'My laundress,' 'My clerk,' 'My guard,' as though your loyalty were coin laid bare for his claiming. And once he believes that, he will test the purchase."
+"The noble," he went on, "buys something else. He buys the habit of seeing you as *his*. He buys the right to say, 'My laundress,' 'My clerk,' 'My guard,' as though your loyalty were coin laid bare for his claiming. And once he believes that, he will test the purchase."
 
 He let his gaze travel the room.
 
@@ -137,8 +139,6 @@ That drew a bitter laugh.
 "He will," Bertoldo said. "Because I will tell him he must."
 
 He felt the risk as he said it. He was staking his own credit to cover their lost comforts. If Federico balked, Bertoldo would own the failure.
-
-But that was the point.
 
 "You mistake the nature of your servitude," he said. "You think you serve this lord or that lady, this merchant or that banker. You do not. You serve the house. You serve the office. You serve the gate itself. If the gate allows its own hinges to be bought, the house will soon belong to those who can pay, and the Duke will wake one morning to find he rules nothing but walls."
 
@@ -212,7 +212,7 @@ Federico's mouth quirked.
 
 He placed the bundle of papers on the desk. Each was written in a different hand.
 
-"These," he said in an undertone, "are the sums your servants have received, season after season." They are already paid, Your Excellence. Only not by you.
+"These," he said in an undertone, "are the sums your servants have received, season after season. They are already paid, Your Excellence. Only not by you."
 
 Federico untied the cord, leafed through the sheets.
 
@@ -242,7 +242,7 @@ He watched the Duke think. It was not the calculation of coin that occupied Fede
 
 "You are asking me," the Duke said slowly, "to make every man and woman in this palace know their livelihood tied more closely to my favor than to any lord's favor. To make their hunger depend entirely on me."
 
-"No," Bertoldo said. "I am asking you to make their *loyalty* depend on you, instead of on those who would barter it."
+"No," Bertoldo said. "I am asking you to make their *loyalty* depend on you, instead of on those who would barter it."
 
 He hesitated, then gave the argument its final turn.
 
@@ -274,7 +274,7 @@ It was harsher than Bertoldo would have chosen.
 
 But effective.
 
-"Yes, my lord." he said.
+"Yes, my lord," he said.
 
 "And you," Federico added, "will receive nothing."
 
@@ -363,4 +363,3 @@ Reward the man who refuses the first coin. Expose the man who takes the second. 
 The gatekeeper who guards only the grand door will one day discover that his prince has been carried out through the servants' entrance.
 
 I will not be that gatekeeper.
-
