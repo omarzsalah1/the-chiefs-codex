@@ -72,7 +72,7 @@ Bertoldo stood at his customary place near the Duke's right shoulder, ledger ope
 
 A low murmur ran through the assembled men. Some crossed themselves; others frowned in silent disapproval.
 
-"Our position," Federico said, "is suddenly fascinating."
+"Our position," Federico said, "is suddenly interesting."
 
 "Interesting is one word for it," muttered one of the older counselors.
 
@@ -168,13 +168,11 @@ The Duke's mouth crooked. It was not quite a smile.
 
 "And what is that?" Federico asked.
 
- "That neutrality is no longer a fortress," Bertoldo said. "It is a road. Whoever marches decides how to use it." 
+"That neutrality is no longer a fortress," Bertoldo said. "It is a road. Whoever marches decides how to use it."
 
 Federico was silent.
 
-"At Forlì," he said at last, "when I rode under another man's banner, the condottiere who paid us told me:"
-
- *'The man who declares himself neutral when two armies face one another has already chosen to be their battlefield.'* 
+"At Forlì," he said at last, "when I rode under another man's banner, the condottiere who paid us told me: 'The man who declares himself neutral when two armies face one another has chosen to be their battlefield.'"
 
 He looked back at Bertoldo.
 
@@ -198,7 +196,9 @@ Federico's brow furrowed.
 
 "You would have me take coin from Milan," he said, "trade from Venice, and credit from Florence, all at once."
 
-"Not all at once," Bertoldo said. "In sequence. Enough from each that they can all claim you favor them, but not enough that any believes you owe them your throat."The Duke let his gaze linger on him.
+"Not all at once," Bertoldo said. "In sequence. Enough from each that they can all claim you favor them, but not enough that any believes you owe them your throat."
+
+The Duke let his gaze linger on him.
 
 "And when one of them demands more?" he asked.
 
@@ -242,9 +242,7 @@ He returned to his cramped room, lit his candle, and opened the cipher journal.
 
 *Tonight I placed no single path in Federico's hand. I gave him instead the uglier truth: that every path now runs through another man's camp. That there is no decision which does not bind us to someone's hatred. He did not like this. Neither do I. But liking has nothing to do with survival.*
 
-*I see, more clearly with each season, the cost of our supposed neutrality. It has bred in the council a taste for delay–a belief that time itself is an ally, that storms pass if one simply closes the shutters and waits. Yet time is no ally to a small state. Yet time is no ally to a small state; it serves only to show how much swifter larger ones grow impatient.*
-
-*The prince who insists on being loved by all his neighbors will find, in the end, that all his neighbors love his land more than they love him.*
+*I see, more clearly with each season, the cost of our supposed neutrality. It has bred in the council a taste for delay–a belief that time itself is an ally, that storms pass if one simply closes the shutters and waits. Yet time is no ally to a small state. It is merely the measure by which larger ones grow impatient.*
 
 *I am beginning to understand that my own neutrality will not survive this era either. I had thought, in my first year at the door, that I could be the servant of the office and of no man–that I could stand between factions, weighing them, without belonging to any. It was a comforting thought. It is less true every day.*
 
@@ -254,7 +252,7 @@ He returned to his cramped room, lit his candle, and opened the cipher journal.
 
 *If that is to be my portion, then let my bias at least be honest. I will pile weights on the scale always in favor of the office: whoever preserves the independence of the throne, even if it shrinks, even if it suffers, even if it is forced into ugly compromises, will have my support. Whoever threatens to turn this city into a pawn–friend or foe, ally or kin–will find me turning the key against them.*
 
-*Neutrality, like youth, is a condition one only recognizes in its absence. I feel mine eroding. In its place comes something harder, narrower, more ruthless. This, then, must be what they mean by 'becoming necessary.''*
+*Neutrality, like youth, is a condition one only recognizes in its absence. I feel mine eroding. In its place comes something harder, narrower, more ruthless. Perhaps this is what they mean by 'becoming necessary.'*
 
 He flexed his hand, trying to ease the ache along his jaw. The pain had settled there with a familiarity that almost comforted him.
 
@@ -264,5 +262,4 @@ Inside, ink dried.
 
 In years to come, when chroniclers wrote of Federico's deft navigation between Milan and Venice, between Rimini and Florence, they would marvel at his balance. Some would call it neutrality, not understanding that he had abandoned that illusion long before their books began.
 
-None would mention the man who first named the illusion to him, by candlelight, in a room that still smelled faintly of wet wool and fear.
-
+None would name the man who had taught him to juggle.

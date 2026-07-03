@@ -35,15 +35,16 @@
 | 2 | Necessity of Mud | **CLOSED** | 7/7 | unspent | Letters'-fate beat added |
 | 3 | Privilege of Wounding | **CLOSED** | 6/7 | SPENT (arrogance/fear, A3) | Advisor firing #1 consumed |
 | 4 | Handing Knives to Princes | **CLOSED** | 5/7 | unspent | Cipher device restored ×2 |
-| 5 | Choosing Your Executioner | **NEXT** | — | open | 1465, ~2,538 w |
-| 6–19 | … | untouched | — | open | See CLAUDE.md §1 table |
+| 5 | Choosing Your Executioner | **CLOSED** | 2/7 | unspent | Ending-formula 3-peat broken (K5-02); cipher-whisper #3 pinned to Ch6 |
+| 6 | Danger of Useful Men | **NEXT** | — | open | 1466 |
+| 7–19 | … | untouched | — | open | See CLAUDE.md §1 table |
 
 ## 4. Regression guard (do not break)
 
 - **Master files:** `THE_CHIEFS_CODEX_WS8_COMPLETE.md` (base, never edit) · `THE_CHIEFS_CODEX_PUBLISHED_SOURCE.md` + `THE_CHIEFS_CODEX_PUBLISHED_204pp.pdf` (provenance references, never edit). All Phase-K edits happen ONLY in `Medieval Italian Codex/Ch*.md`.
 - **Hard rules (ratified):** ≤7 edits/chapter/pass · ≤1 NEW aphorism/chapter/pass (cap ≠ quota — Ch2/Ch4 spent none; restorations don't count) · scan → Omar labels → apply (never prose before labels) · Coup Rule: narration/dialogue never explains Bertoldo's maneuvers' cleverness · period gate outranks style (rejected: "solutions not sympathy", "bureaucratic joylessness") · dry humor never explained · character speech is characterization (outside lens jurisdiction).
 - **SPENT (burned aphorism families):** ledger/struck (Ch1) · arrogance-as-fear-confession (Ch3) · insult-dressed-as-X (Ch3, restored) · theft-of-attention (Ch1) · reflected-light/borrowed-cloak (Ch1) · rowing/fortune's-children (Ch2) · chi-tiene-la-porta (frame). Echo allowed, re-minting barred. Full inventory + reuse bank: `KUNDERA_PASS_LOG.md`.
-- **Reuse bank highlights (spend only at earmarked moments):** "waiting for the weather to apologize" → Marcello's late-book fall · armor simile ("hands that hammered the plates") → Bertoldo's discard arc · "Not a servant of men, but a servant of the office itself." · crisis/information epigram → Ch8/Ch9 reflection · shards image (once, not in dialogue) · "God rest his soul." (Federico) · "The court devours its accidents."
+- **Reuse bank highlights (spend only at earmarked moments):** "waiting for the weather to apologize" → Marcello's late-book fall · armor simile ("hands that hammered the plates") → Bertoldo's discard arc · "Not a servant of men, but a servant of the office itself." · crisis/information epigram → Ch8/Ch9 reflection · shards image (once, not in dialogue) · "God rest his soul." (Federico) · "The court devours its accidents." · "The prince who insists on being loved by all his neighbors…" (Ch5 cut) → free-floating statecraft generalization, any Part II/III chapter.
 - **Locked leave-alones per chapter:** listed in each chapter's scan section of the log — do not gild.
 - **Advisor discipline:** proposer≠evaluator; advisor is never Claude; ≤1 firing between rounds per chapter; **rotation state: gpt-5.5 used (Ch3) → next firing must be a different seat (deepseek/deepseek-v4-pro is Innovation seat; mechanical SPENT-check mandatory for it)**; run calls in e2b (workspace shell 45s cap kills them); log to `audit_reports/`.
 
@@ -80,9 +81,9 @@
 
 | Item | Severity |
 |------|----------|
-| Third cipher-whisper restoration ("…buy his way into the wool will try to buy his way into the ear") — locate chapter (grep published source), restore during that chapter's pass | yellow |
-| "No one will remember/mention…" ending formula: Ch3+Ch4 consecutive (both authorial). If Ch5 makes three, propose variation at weakest instance | yellow |
-| WS paragraph-collapse damage likely in Ch5–19 (Ch3 needed 64 splices) — collate each chapter vs published source at scan time | yellow |
+| Third cipher-whisper restoration — **location confirmed:** `PUBLISHED_SOURCE.md` L1359, Chapter 6 ("…buy his way into the wool will try to buy his way into the ear"); restore during Ch6 pass | yellow |
+| "No one will remember/mention…" ending formula: Ch3+Ch4+Ch5 all used it; **varied at Ch5 (K5-02)** — three-peat broken | green (resolved) |
+| WS paragraph-collapse damage confirmed again in Ch5 (2 instances: collapsed dialogue break, isolated/stray-spaced maxim) — same expectation stands for Ch6–19, collate each at scan time | yellow |
 | Typographic pass (en/em dash mix, bare "–" scene dividers, L53-style spacing) — book-wide, post-Phase-K | green |
 | Codex-native voice file (replace Falk-branded KUNDERA_VOICE_FILE with ratified CLAUDE.md §6 content) | green |
 | Front matter (Preface/Note/Prologue) dial-HIGH pass not yet scheduled | green |
@@ -90,8 +91,8 @@
 
 ## 9. Next priority
 
-**Ch5 Pass 1 — "On Choosing Your Executioner" (1465, ~2,538 w).** Workflow: (1) Read `Medieval Italian Codex/Ch05_On_Choosing_Your_Executioner.md`; (2) collate vs `THE_CHIEFS_CODEX_PUBLISHED_SOURCE.md` (corruptions/strips — check cipher-whisper #3, quote losses, paragraph collapse); (3) five-category scan + dial/Coup/SPENT checks; (4) candidate table → Omar labels (send_user_message + AskUserQuestion pattern); (5) apply ≤7, seam-check ±10 lines, log, push. Watchlist: ending-formula count; measurer-inversion principle if stakes escalate (stakes up → recorded units smaller). Omar's reviewer may supply Ch5 notes — verdict each item against doctrine before applying; rejections with grounds are expected and logged.
+**Ch6 Pass 1 — "On the Danger of Useful Men" (1466).** Workflow: (1) Read `Medieval Italian Codex/Ch06_On_the_Danger_of_Useful_Men.md`; (2) collate vs `THE_CHIEFS_CODEX_PUBLISHED_SOURCE.md`; **cipher-whisper #3 is confirmed here** (`PUBLISHED_SOURCE.md` L1359, "buys his way into the wool… into the ear") — restore it, same treatment as Ch4's two; (3) five-category scan + dial/Coup/SPENT checks; (4) candidate table → Omar labels; (5) apply ≤7, seam-check ±10 lines, log, push. Ch5 closed 2/7 — the ending-formula three-peat was broken there (K5-02), so Ch6 carries no inherited fatigue pressure on its own kicker. Omar's reviewer may supply Ch6 notes — verdict each item against doctrine before applying; rejections with grounds are expected and logged.
 
 ## 10. PICKUP command
 
-See chat / registry. On restore: read CLAUDE.md → this file → KUNDERA_PASS_LOG.md; verify Ch1–4 files match scoreboard (grep "Gratitude would imply I had a choice" Ch3, "cipher whispered" ×2 Ch4, "The rescue had arrived" Ch2, "trimmed the candles and stayed" Ch1); confirm repo @ 084f332 or later; then proceed to Ch5 scan.
+See chat / registry. On restore: read CLAUDE.md → this file → KUNDERA_PASS_LOG.md; verify Ch1–5 files match scoreboard (grep "Gratitude would imply I had a choice" Ch3, "cipher whispered" ×2 Ch4, "The rescue had arrived" Ch2, "trimmed the candles and stayed" Ch1, "taught him to juggle" Ch5); confirm repo @ 084f332 or later; then proceed to Ch6 scan.
