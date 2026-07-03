@@ -6,7 +6,7 @@ The first time Bertoldo truly understood that the door did not end at the palace
 
 It was early spring, the kind that promised blossoms and delivered only mud. The formal delegation from Florence had left three days before, their banners vanishing over the southern ridge in a flutter of crimson and gold. The palace had exhaled in their wake. Servants went back to plain wool. The kitchen stopped pretending it enjoyed making sugar sculptures in the shape of Medici lilies.
 
-Only the ledgers remained to testify that Florence had ever been there at all.
+Only the ledgers remained to testify that Florence had ever been there at all—each entry recording, in a notary's flat hand, the exact silver weight of the illusion.
 
 Bertoldo stood beneath the eaves of the western colonnade, watching the courtyard. A line of pack mules waited near the gate, laden with bolts of cloth and sacks of grain. Their drivers huddled under cloaks, stamping their feet against the chill. At the far end of the yard, the steward of the household was arguing with a clerk over storage space.
 
@@ -166,9 +166,9 @@ Suspicion flared.
 
 "So I may price you," Bertoldo replied.
 
-The words landed like a slap.
+The words hung in the damp air, stripping their grievance of its romance.
 
-"You wish to be paid like men, not bribed like whores?" he said, more harshly than he had intended. "Then we must know what your virtue is worth. Not so that we may sell it, but so that we may ensure no one else can afford it."
+"You wish to be paid like men, not bribed like whores?" he said, his voice as level as a magistrate reading a fine. "Then we must know what your virtue is worth. Not so that we may sell it, but so that we may ensure no one else can afford it."
 
 The captain of the watch snorted despite himself.
 
