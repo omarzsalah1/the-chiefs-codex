@@ -20,7 +20,7 @@ The door opened to admit Carlo, the steward of the household. His face, usually 
 
 Carlo swallowed.
 
-"There is something you must see," he said. "Or it might be otherwise–" He broke off. It may be that there is nothing. That is why I hesitated.
+"There is something you must see," he said. "Or perhaps–" He broke off. "Perhaps there is nothing. That is why I hesitated."
 
 Bertoldo stood, joints protesting.
 
@@ -60,7 +60,7 @@ There it was. The pause. The choice between silence and peril.
 
 Bertoldo stepped closer, ran a finger lightly across the scar of the old seal.
 
-"Send for Rinaldi," he said in an undertone. "No herald. Have him meet me in the smaller counting room. And wake the taster. Tell him to prepare to earn his wages."
+"Send for Rinaldi," he said. "Quietly. No herald. Have him meet me in the smaller counting room. And wake the taster. Tell him to prepare to earn his wages."
 
 Carlo nodded, relief and fear warring in his face.
 
@@ -148,7 +148,7 @@ Rinaldi's mouth thinned.
 
 He rubbed his forehead.
 
-"Do you know what you are doing?" he asked Bertoldo. "If we go to Federico with this, we present him with three possibilities. One–his treasurer is incompetent. Two–his treasurer is complicit. Three–his household is so porous that any man can stamp his seal on any sack and roll it into the palace. None of these inspires restful sleep."
+"Do you know what you are doing?" he asked Bertoldo. "If we go to Federico with this, we present him with three possibilities. One–his treasurer is an incompetent who cannot secure his own seals. Two–his treasurer is a traitor grinding glass into the flour. Three–his household is so porous that the first two hardly matter: any man can stamp a false seal on any sack and roll death through the kitchen door. None of these inspires restful sleep."
 
 "And if we say nothing?" Bertoldo asked.
 
@@ -158,7 +158,9 @@ Silence settled.
 
 "I did not come here," Rinaldi said finally, "to be offered the choice between my reputation and my prince's life."
 
-"No," Bertoldo said. "You came here because Carlo was brave."Rinaldi's eyes flicked to the steward's name, marking it in silent calculation.
+"No," Bertoldo said. "You came here because Carlo was brave."
+
+Rinaldi's eyes flicked to the steward's name as if to mark it for later.
 
 "This is why no one speaks," he said. "Every truth threatens more than one neck."
 
@@ -172,7 +174,7 @@ Rinaldi stared.
 
 "You would have him sit down to breakfast over this?" he demanded.
 
-"No," Bertoldo said. "He will not eat anything from these stores until we know more. The steward will redirect the kitchen to stock from another room, speaking only in a low undertone to those involved. The Duke will not notice the difference. He has other things on his mind."
+"No," Bertoldo said. "He will not eat anything from these stores until we know more. The steward will quietly redirect the kitchen to stock from another room. The Duke will not notice the difference. He has other things on his mind."
 
 "And when he asks why you robbed him of his morning bread?" Rinaldi said.
 
@@ -186,7 +188,7 @@ Rinaldi's jaw clenched.
 
 He turned to the taster.
 
-"You will examine sacks taken at random from this stack and from Rinaldi's warehouses tomorrow," he said, lowering his voice to an undertone. "If you find nothing, we will still know that someone has been playing games with seals. If you find something, we will know where it lies."
+"You will examine sacks taken at random from this stack and from Rinaldi's warehouses tomorrow," he said. "Quietly. If you find nothing, we will still know that someone has been playing games with seals. If you find something, we will know where it lies."
 
 "And if I die?" the taster asked.
 
@@ -206,7 +208,7 @@ The sacks from Rinaldi's warehouse matched the sacks in the palace. Same merchan
 
 "Sloppiness," Bertoldo said. "At best. At worst, someone testing how easily seals can travel."
 
-"Rival?" Rinaldi asked. "Or someone *here*?"
+"Rival?" Rinaldi asked. "Or someone *here*?"
 
 "Both," Bertoldo said. "Always both."
 
@@ -230,7 +232,7 @@ Federico listened as they laid out the facts–Carlo's discovery, the double sea
 
 "You believed this might be an attempt on my life," he said, when they finished.
 
-"Yes." Bertoldo said.
+"Yes, Your Excellence," Bertoldo said.
 
 "And you did not wake me," Federico said.
 
@@ -238,7 +240,9 @@ Federico listened as they laid out the facts–Carlo's discovery, the double sea
 
 "Why?"
 
-"Because if it *was* an attempt," Bertoldo said, "we needed more than fear before we set your fury loose. And if it was not, we needed to know that, too, before we taught your court that a stray smear of wax could send the palace into panic."Federico let his gaze linger on him.
+"Because if it *was* an attempt," Bertoldo said, "we needed more than fear before we set your fury loose. And if it was not, we needed to know that, too, before we taught your court that a stray smear of wax could send the palace into panic."
+
+Federico studied him.
 
 "And if the flour had killed me?" he asked.
 
@@ -262,7 +266,9 @@ He looked at Carlo, who stood white-faced by the door–the steward Bertoldo had
 
 Carlo swallowed.
 
-"Because if I did not, my lord," he said, "and harm came, I would never sleep again."he Duke’s gaze lingered steadily upon him.
+"Because if I did not, my lord," he said, "and harm came, I would never sleep again."
+
+The Duke regarded him for a moment.
 
 "Good," he said. "I prefer men whose consciences keep them awake to men whose comfort keeps them silent."
 
@@ -272,7 +278,7 @@ He turned back to Bertoldo and Rinaldi.
 
 He ordered the cousin dismissed from the warehouse and reassigned to a post where his only seals would be on laundry chests. He decreed that any stock bearing altered markings would be burned, not used, and that the cost would be borne by the office responsible, not the household.
 
-"And the man who woke you?" Federico asked Bertoldo in an undertone, as the others bowed and withdrew.
+"And the man who woke you?" Federico asked Bertoldo quietly, as the others bowed and withdrew.
 
 "Carlo," Bertoldo said. "Steward of the household."
 
@@ -302,7 +308,7 @@ The incident of the sacks taught me three things.
 
 First, that suspicion is not yet truth, but it is the road on which truth travels. If we punish men for bringing us suspicion, we will never see the truth that might have followed.
 
-Second, that not every alarm can go straight to the throne. If Federico had been roused at midnight on half-evidence, his anger would have fallen on whoever stood nearest. Carlo, or Rinaldi, or me. It might have been Rinaldi. Carlo. Rinaldi, conceivably. Or even me. The next steward with a sick feeling in his gut would have rolled over and gone back to sleep.
+Second, that not every alarm can go straight to the throne. If Federico had been roused at midnight on half-evidence, his anger would have fallen on whoever stood nearest. Perhaps Carlo. Perhaps Rinaldi. Perhaps me. The next steward with a sick feeling in his gut would have rolled over and gone back to sleep.
 
 So the gatekeeper must interpose himself. He must be the sounding board where every anxious knock can land without reprisal. He must test, taste, and suffer uncertainty so that, when he finally wakes his master, he does so with something more than fear in his hands.
 
@@ -312,7 +318,6 @@ The careless cousin lost his warehouse. Good. The careful steward gained coin. B
 
 If I wished comfort, I would teach them to keep their worries to themselves. It would mean fewer midnight knocks. More sleep. A quieter life.
 
-But I have seen what quiet courts become. They are peaceful.
+But I have seen what quiet courts become. They are perfectly peaceful.
 
 Right until the gates fall.
-
