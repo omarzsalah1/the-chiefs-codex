@@ -164,7 +164,7 @@ He met Federico's eyes.
 
 He gestured toward the map where the conspiracy was marked.
 
-"Marco would investigate honestly," Bertoldo said. "He would report accurately. But if he found evidence implicating someone powerful–someone with power over his family, or his future–I don't yet know that he would bring me that evidence rather than burying it to protect himself. I *think* he would. But I don't *know*."
+"Marco would investigate honestly," Bertoldo said. "He would report accurately. But if he found evidence implicating someone powerful–someone with power over his family, or his future–I don't yet know that he would bring me that evidence rather than burying it to protect himself. I *think* he would. But I don't *know*."
 
 "And you?" Federico asked.
 
