@@ -22,9 +22,11 @@ They came to Bertoldo.
 
 The meeting took place in a tavern near the cathedral—neutral ground, away from the palace. The air smelled of sour wine and the rosemary they burned to cover it, a place where merchants met and no one remembered faces.
 
-The lead merchant was named Salviati. He was a round man with shrewd eyes and hands that moved constantly, calculating invisible sums on an invisible abacus.
+The lead merchant was named Salviati. He was a round man with shrewd eyes and hands that moved constantly, as if he were always calculating invisible sums on an invisible abacus.
 
-"You understand our position," Salviati said, after the wine had been poured and the pleasantries concluded. "We have capital. We have connections throughout Tuscany. We could bring significant trade to Urbino–trade that would fill your duke's coffers and your city's warehouses." "I understand," Bertoldo said, weighing each word with solemn intent.
+"You understand our position," Salviati said, after the wine had been poured and the pleasantries concluded. "We have capital. We have connections throughout Tuscany. We could bring significant trade to Urbino–trade that would fill your duke's coffers and your city's warehouses."
+
+"I understand," Bertoldo said, weighing each word with solemn intent.
 
 "But we cannot wait forever for the bureaucracy to decide. Spring fair is in six weeks. If we don't have concessions by then, we'll take our business to Perugia. Their duke knows the value of Florentine silver."
 
@@ -96,13 +98,13 @@ The question was not accusatory. Federico was genuinely curious.
 
 Bertoldo chose his words.
 
-"Because if I had accepted," he said, "I would have made my influence a commodity. The next merchant would offer more. The next would offer still more. Within a year, You would be ruling a realm where access to you was purchased at a price, and God help us all then."
+"Because if I had accepted," he said, "I would have made my influence a commodity. The next merchant would offer more. The next would offer still more. Within a year, Your Excellence would be ruling a duchy where access to your ear was purchased at market price–and I would be the one setting that price."
 
 "You don't trust yourself," Federico said.
 
 It was not a question.
 
-"No, Your Excellence," Bertoldo said. "I don't. God knows I am fallible too."
+"No, Your Excellence," Bertoldo said. "I don't."
 
 Federico fell into silence, gathering his thoughts.
 
@@ -156,7 +158,7 @@ Not in the duke's name, exactly. He simply ensured that the necessary permits we
 
 When Federico returned, Bertoldo reported what had been done.
 
-The duke's gaze held Bertoldo as the flicker of the candles danced across his face.
+The duke looked at him for a long moment.
 
 "You exceeded your authority."
 
@@ -232,7 +234,7 @@ Second: When I must decide, make the decision reversible. Grant temporary permis
 
 Third: Attribute all success upward, all failure downward. When something goes right, it is because Federico's wisdom guided it. When something goes wrong, it is because I failed to execute properly. This is not false modesty. It is the structure that prevents me from accumulating credit–and credit is the currency that buys ambition.
 
-Fourth: Correct those who attribute power to me. When petitioners thank me for granting access, remind them I grant nothing–I convey their petition alone to the duke, who alone decides. When courtiers praise my judgment, redirect the praise to Federico's instruction. This seems like humility, but it is actually self-preservation. The servant who accepts credit for his master's decisions has already begun to steal his master's authority.
+Fourth: Correct those who attribute power to me. When petitioners thank me for granting access, remind them I grant nothing–I merely convey their petition to the duke, who alone decides. When courtiers praise my judgment, redirect the praise to Federico's instruction. This seems like humility, but it is actually self-preservation. The servant who accepts credit for his master's decisions has already begun to steal his master's authority.
 
 Fifth: Accept blame I do not deserve. When Federico is angry at outcomes, let that anger fall on me rather than deflecting it to subordinates or circumstances. The duke needs targets for his frustration. Better that I absorb it–I am durable and he knows my value–than that it falls on ministers he might actually dismiss, leaving the court weaker.
 
@@ -284,13 +286,15 @@ The duchy suffered. Trade agreements were missed. Criminal cases piled up. Forei
 
 But Federico lived. And when he recovered, he summoned Bertoldo to his bedside.
 
-"You let things fall apart," the duke said. "Your words came faintly, yet your mind struck with sharp clarity," the duke said.
+"You let things fall apart," the duke said. His voice was still weak, but his mind was sharp.
 
 "Yes, Your Excellence."
 
 "Why?"
 
-"Because the alternative was to rule in your name. And that, by God and all the saints, is a threshold I will not cross."Federico’s gaze lingered, weighing the gravity of the words.
+"Because the alternative was to rule in your name. And that is a threshold I will not cross."
+
+Federico studied him for a long moment.
 
 "The cost was high," he said.
 
@@ -302,13 +306,13 @@ But Federico lived. And when he recovered, he summoned Bertoldo to his bedside.
 
 "You could have prevented all of that."
 
-"Yes. Yes. By bearing myself like a duke. Which I am not. Which I am not."
+"Yes. By bearing myself like a duke. Which I am not."
 
 Federico's expression was unreadable.
 
 "You chose my authority over my realm's welfare," he said.
 
-"I chose to preserve what makes authority possible," Bertoldo replied. "Which is the principle that only the duke rules. If I had acted in your absence, I would have established that a chamberlain can rule when convenient. The next time you were ill, or absent, or simply slow to decide, the court would look to me instead of you. Within five years, you would be duke in name only. Within ten, you would be dead–God forbid–because a prince without power is simply an obstacle waiting to be removed."
+"I chose to preserve what makes authority possible," Bertoldo replied. "Which is the principle that only the duke rules. If I had acted in your absence, I would have established that a chamberlain can rule when convenient. The next time you were ill, or absent, or simply slow to decide, the court would look to me instead of you. Within five years, you would be duke in name only. Within ten, you would be dead–because a prince without power is simply an obstacle waiting to be removed."
 
 "So you let Urbino suffer."
 
@@ -369,4 +373,3 @@ I accept the price. Because the alternative–building independent power while t
 The gate is not mine. It belongs to whoever sits on the throne. I am nothing more than its keeper.
 
 And the keeper who forgets this truth becomes what he was meant to exclude: the usurper standing at the threshold, waiting to be struck down.
-
