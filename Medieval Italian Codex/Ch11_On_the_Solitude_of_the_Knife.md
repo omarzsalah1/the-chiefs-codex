@@ -34,7 +34,7 @@ The first was Rinaldi, the treasurer. He was competent with numbers, respected b
 
 But he was also calculating in ways that made Bertoldo uneasy. His loyalties seemed to run primarily to his own ledgers, secondarily to the duke. He served well because service was profitable. What would happen if service stopped being profitable?
 
-The second was Marco, a young diplomat who had come up through the chancellery. Brilliant with languages, charming at banquets, quick on his feet in negotiations. He had potential.
+The second was Marco, a young diplomat who had come up through the chancellery. Brilliant with languages, charming at banquets, agile in debate. He had potential.
 
 But potential was not the same as proof. And sending an unproven man to Milan with the duchy's food supply hanging in the balance was a grave error one made but once—if one survived at all.
 
@@ -200,7 +200,7 @@ His withdrawal provoked suspicion among the others. Orsini accused Salviati of l
 
 No arrests were made. No executions. No public trials that would have created martyrs or revealed to other nobles how much the duke knew about their private conversations.
 
-The conspiracy simply dissolved, leaving behind a handful of nobles who now knew–without being able to prove–that the Duke of Urbino had eyes and hands in places they had thought secure.
+The conspiracy simply dissolved, leaving behind a handful of nobles who now knew–without being able to prove–that the Duke of Urbino's ledgers reached as far as his gates.
 
 When Bertoldo returned to the palace, Federico asked how the investigation had gone.
 
@@ -288,19 +288,19 @@ That recognition, at least, was something he could pass on.
 
 And so when Sandro finally asked him, one evening in the quiet of the study, "How do you know when to do something yourself versus sending someone else?" Bertoldo had an answer ready.
 
-"You look at three things," he said. "The task, the person, and the cost of failure."
+"You look at three things," he said. "The nature of the task. The nature of the man. The price of ruin."
 
 "Explain," Sandro said, pulling out the journal where he recorded everything Bertoldo taught.
 
-"First, the task. Can it be described clearly enough that someone else can execute it without constant supervision? Or does it require improvisation, adaptation, the subtle discernment born only of deep understanding of context? If the former, delegate. If the latter, consider doing it yourself."
+"First, the nature of the error," Bertoldo said. "Can the task survive a fool? If a clumsy clerk can perform it without burning the city, send the clerk. If it requires the subtlety of a confessor, consider going yourself."
 
 Sandro wrote.
 
-"Second, the person. Do they have the capability to succeed? That's not the same as potential–potential is what they might become. Capability is what they are now. If they have it, delegation multiplies your power. If they don't, delegation multiplies your risk."
+"Second, the nature of the man. Do not confuse promise with proof. Potential is a ledger filled with blank pages. Send only men whose ledgers already show a profit."
 
 More writing.
 
-"Third, the cost of failure. If the person fails, can you survive it? Will the realm survive it? Is this a mission where failure means embarrassment, or one where failure means war?" Bertoldo leaned forward. "If failure is survivable, delegate. That's how people learn. If failure would be catastrophic, do it yourself."
+"Third, the price of ruin. If he fails, can you afford the loss? If failure costs coin, send him; coin can be minted. If failure costs the walls, you must go yourself."
 
 "And if all three factors point in different directions?" Sandro asked.
 
