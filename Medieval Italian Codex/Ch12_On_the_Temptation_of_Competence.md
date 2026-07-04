@@ -373,3 +373,4 @@ I accept the price. Because the alternative–building independent power while t
 The gate is not mine. It belongs to whoever sits on the throne. I am nothing more than its keeper.
 
 And the keeper who forgets this truth becomes what he was meant to exclude: the usurper standing at the threshold, waiting to be struck down.
+
