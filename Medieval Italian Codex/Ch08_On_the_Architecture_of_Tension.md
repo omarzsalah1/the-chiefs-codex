@@ -325,3 +325,4 @@ Today, Orsini cursed Rinaldi less than yesterday. Rinaldi argued with Orsini ins
 This is what it means to succeed in my work.
 
 The court calls it a masterstroke of balance. They do not understand the physics of the arch. To be the fulcrum between such crushing weights is not power. It is merely the guarantee that when the structure finally collapses, you will be the first thing ground to dust.
+
