@@ -4,7 +4,7 @@
 
 By then, Bertoldo had learned to recognize the sound of ambition.
 
-It was not the clash of swords in the courtyard or the raised voices in council. It was softer than that–a certain cadence in a petitioner's tone, the way a man said *"only a moment of His Excellence's time"*, holding time like a trinket upon a silver tray, the slight forward lean of the body that betrayed not need, but hunger.
+It was not the clash of swords in the courtyard or the raised voices in council. It was softer than that–a certain cadence in a petitioner's tone, the way a man said *"only a moment of His Excellence's time"*, holding time like a trinket upon a silver tray, the slight forward lean of the body that betrayed not need, but hunger.
 
 The first time he heard that sound in Urbino's antechamber, it came wrapped in silk.
 
@@ -134,7 +134,7 @@ He set the parchment down, steepling his fingers.
 
 "What do you make of it?" he asked.
 
-Bertoldo resisted the reflex to say *it depends*.
+Bertoldo resisted the reflex to say *it depends*.
 
 "It is profitable," he said. "In the short term. The guild is lazy. Giacomo is not. He would squeeze more coin from the same wool. Enough to pay us more and still get rich himself."
 
@@ -400,7 +400,7 @@ He sat at his small table beneath the eaves, beeswax candle flaring in the draft
 
 *Today I refused a proposal not because it would fail, but because it would succeed too well for the wrong man. Giacomo offers more coin with less effort, dressing his self-interest in the Duke's prosperity so skillfully that even the ledger nods along.*
 
-*Discovery: The most dangerous monopoly is not of wool, but of hearing. The man who becomes indispensable in one narrow domain will inevitably use it to claim the prince's ear in all things.*
+*The most dangerous monopoly is not of wool, but of hearing. The man who becomes indispensable in one narrow domain will inevitably use it to claim the prince's ear in all things.*
 
 *Princes do not notice when one voice begins to dominate. They simply grow used to the flavor of their counsel, the way a man who always eats with too much salt forgets what bread truly tastes like.*
 
@@ -413,3 +413,4 @@ He flexed his jaw until it clicked, a small, sharp sound in the quiet room.
 In the palazzo below, the looms of Urbino clattered on into the night. The cloth would pass through many hands before it reached the world.
 
 But for now, the ear of the Duke remained a market Giacomo da Rimini could not price.
+
