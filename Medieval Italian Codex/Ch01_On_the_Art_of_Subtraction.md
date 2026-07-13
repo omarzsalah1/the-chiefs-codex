@@ -108,7 +108,7 @@ He took out a small leather journal–a blank one he'd purchased with his first 
 
 *A notary's son knows: a ledger is made true not by what is entered, but by what is struck.*
 
-*Discovery: I do not need to be stronger than the man with the sword. I need only to be the voice of the one behind the door. The nobleman did not retreat from me–he retreated from the Duke's authority, which I carried like a borrowed cloak.*
+*I do not need to be stronger than the man with the sword. I need only to be the voice of the one behind the door. The nobleman did not retreat from me–he retreated from the Duke's authority, which I carried like a borrowed cloak.*
 
 *The gatekeeper's power is never his own. It is always reflected light.*
 
