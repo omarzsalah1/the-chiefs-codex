@@ -238,7 +238,7 @@ He returned to his cramped room, lit his candle, and opened the cipher journal.
 
 *Neutrality has been our pride. We called it prudence. We told ourselves we were above factions, above wars. We traded with both sides, dressed our caution in the robes of wisdom. It was a pleasant lie. It is becoming a dangerous one.*
 
-*Discovery: The gatekeeper's duty is not only to guard who enters the chamber, but to describe accurately the shape of the world beyond it. If he flatters his prince with pictures of safety when the walls are already trembling, he is no servant. He is a minstrel with a comforting song.*
+*The gatekeeper's duty is not only to guard who enters the chamber, but to describe accurately the shape of the world beyond it. If he flatters his prince with pictures of safety when the walls are already trembling, he is no servant. He is a minstrel with a comforting song.*
 
 *Tonight I placed no single path in Federico's hand. I gave him instead the uglier truth: that every path now runs through another man's camp. That there is no decision which does not bind us to someone's hatred. He did not like this. Neither do I. But liking has nothing to do with survival.*
 
@@ -261,3 +261,4 @@ Inside, ink dried.
 In years to come, when chroniclers wrote of Federico's deft navigation between Milan and Venice, between Rimini and Florence, they would marvel at his balance. Some would call it neutrality, not understanding that he had abandoned that illusion long before their books began.
 
 None would record the clerk who had tipped the scales.
+
