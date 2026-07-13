@@ -4,13 +4,13 @@ On the Voluntary Departure
 
 *Being an account of endings and their recognition, and why the wise gatekeeper leaves before he is asked*
 
-*1489*
+*1490*
 
-*The Recognition*
+I. The Recognition
 
 The sign came during a council meeting on the salt tax.
 
-It was spring, 1489. Duke Guidobaldo was nineteen now, tall and composed, no longer the fragile boy Bertoldo had shielded through the succession. The regency had ended two years ago. The young Duke ruled in his own right, and Urbino was prosperous.
+It was spring, 1490. Duke Guidobaldo was eighteen now, tall and composed, no longer the fragile boy Bertoldo had shielded through the succession. The regency had ended two years ago. The young Duke ruled in his own right, and Urbino was prosperous.
 
 Bertoldo sat at his customary position—to the Duke's right, slightly behind, where he could see every face at the table but remained outside the direct circle of authority. It was a position he'd perfected over three decades. Close enough to advise. Far enough to be invisible.
 
@@ -134,7 +134,7 @@ He was fifty-one years old. He felt seventy.
 
 He went to his desk and opened his cipher journal to a fresh page.
 
-*1489. The Recognition.*
+*1490. The Recognition.*
 
 *I have seen the sign. Three signs, actually, but they are all the same sign: I am no longer necessary.*
 
@@ -142,7 +142,7 @@ He went to his desk and opened his cipher journal to a fresh page.
 
 *Each sign alone could be dismissed. Together, they form a verdict.*
 
-*Discovery: The gatekeepers obsolescence is the proof of his success. I taught the Duke to rule alone, and now he does. I made myself indispensable until I taught him how to be independent, and now I am neither.*
+*The gatekeepers obsolescence is the proof of his success. I taught the Duke to rule alone, and now he does. I made myself indispensable until I taught him how to be independent, and now I am neither.*
 
 *The window is narrowing. I have perhaps six months—perhaps a year—before the polite suggestions begin. Before the honorary title is offered. Before the duties are quietly reassigned to younger men who understand the future.*
 
@@ -172,7 +172,7 @@ He closed the journal and went to bed.
 
 He did not sleep.
 
-I. The Ghost of Ferrara
+II. The Ghost of Ferrara
 
 That night, Bertoldo did not sleep. He paced his chambers, the stone floor cold beneath his feet, haunted not by the Duke's independence but by a memory from his youth.
 
@@ -198,8 +198,6 @@ He sat at his desk and unlocked the iron chest. He opened the third volume of th
 
 *From the cipher of Bertoldo di Fano:*
 
-*"I have seen the sign. It was small–a glance not given, a question not asked–but it was absolute. The season has turned.I have at most six months. Vittorio Salviati is circling, young and hungry and perfectly positioned. The Duke is flexing his new strength, testing the limits of his reach. If I stay, I become an obstacle to the very ruler I formed."*
-
 *The tragedy of the gatekeeper is not that he is replaced; it is that he is replaced because he succeeded. I built a prince who can rule without me. My obsolescence is the proof of my victory.*
 
 *I must drink this victory, though it tastes like ash.*
@@ -209,7 +207,7 @@ He sat at his desk and unlocked the iron chest. He opened the third volume of th
 
 –
 
-II. The Architecture of Exit
+III. The Architecture of Exit
 
 The resignation of a man who holds the secrets of the state is not a simple matter of handing in a badge. It is a campaign. It requires as much strategy as a war, and more delicacy.
 
@@ -225,7 +223,7 @@ He watched Sandro work, correcting him less and less. He saw the younger man's c
 
 By winter, the transfer was unseen but substantial. Sandro held the threads; Bertoldo was left with the title alone.
 
-*The Breaking of Chains*
+IV. The Breaking of Chains
 
 Bertoldo requested the audience on a Monday morning in June. He sent a formal note—not a whispered word in passing, but a written request, sealed and delivered by a page. The formality was deliberate. It signaled that what followed was official.
 
@@ -375,11 +373,11 @@ He bowed—deeply, formally, one last time.
 
 Then he turned and left before the Duke could see his own tears start.
 
-III. The Departure
+V. The Departure
 
 The months passed with a terrifying speed.
 
-Bertoldo moved through the palace like a man attending his own funeral. He saw the rooms he would never enter again, the people he would never manage again. He felt the phantom pain of the limb he was severing.
+Bertoldo moved through the palace like a man attending his own funeral. He saw the rooms he would never enter again, the people he would never manage again. He felt the cold ache of the amputation.
 
 On the last day of August, 1490, the transfer was complete.
 
@@ -418,7 +416,7 @@ Bertoldo turned and walked away. He did not look back again.
 
 –
 
-*The Phantom Limb*
+VI. The Phantom Limb
 
 The first month in Fano was paradise.
 
@@ -514,7 +512,7 @@ So Bertoldo spent the day in Paolo's fields, cutting wheat. Physical labor. Mind
 
 But every break, every pause for water, his mind returned to Urbino. To the Venetian contract. To the duke who no longer needed him.
 
-By evening, his back ached and his hands were blistered. But the phantom limb still throbbed.
+By evening, his back ached and his hands were blistered. But the ghost of the work still throbbed.
 
 That night, he did something he'd resisted for thirty years: he poured himself a large cup of wine and drank until the questions stopped.
 
@@ -538,7 +536,7 @@ And Bertoldo was...
 
 *Unnecessary.*
 
-He'd known it intellectually. But knowing and *feeling* were different countries.
+He'd known it intellectually. But the ledger of the mind does not govern the ledger of the blood.
 
 He went to his olive grove and worked until his hands bled. He tended his vines with savage intensity. He read philosophy until the words blurred.
 
@@ -562,9 +560,9 @@ He went to his study, lit a candle, opened his cipher journal.
 
 *1490. The Third Month. Fano.*
 
-*Discovery: Retirement is not peace. It is withdrawal. The addiction to purpose does not fade simply because the purpose is taken away.*
+*Retirement is not peace. It is withdrawal. The addiction to purpose does not fade simply because the purpose is taken away.*
 
-*I tend trees I don't recognize. I read philosophy without applying it. I watch merchants pass and wonder what news they carry, what intelligence could be gleaned, what leverage exists in their supply chains.*
+*I tend trees I don't recognize. I read philosophy without applying it. I watch merchants pass and wonder what news they carry, what intelligence could be gleaned, what leverage exists in their trade routes.*
 
 *I am not living in Fano. I am haunting it. A ghost of the man I was, unable to move on because I never learned how to be anything else.*
 
