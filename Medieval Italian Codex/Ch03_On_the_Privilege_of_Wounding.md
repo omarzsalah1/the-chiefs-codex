@@ -242,7 +242,7 @@ Then he bent, righted the fallen chair, gathered the scattered documents, and re
 
 *Instead, I placed the knife in his hand and watched him cut himself on it in private, so that he would not bleed in public.*
 
-*Discovery: The gatekeeper who obeys without question guards nothing at all. He becomes a courier of comforts, a decorator of cages, a servant of the prince's ease rather than the prince's safety. He spares his master's feelings and imperils his master's realm.*
+*The gatekeeper who obeys without question guards nothing at all. He becomes a courier of comforts, a decorator of cages, a servant of the prince's ease rather than the prince's safety. He spares his master's feelings and imperils his master's realm.*
 
 *To serve truly is to wound, when wounding is the only way to prevent a deeper harm.*
 
