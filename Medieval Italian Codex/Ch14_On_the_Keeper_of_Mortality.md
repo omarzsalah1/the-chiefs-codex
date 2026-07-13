@@ -8,26 +8,12 @@ The gatekeeper becomes, by necessity, the prince's eye in darkness. Not because 
 
 In the years following the regency's establishment, Bertoldo di Fano discovered that neutrality, once achieved, must be maintained through vigilance. The balance between Orsini and Rinaldi was not stable by nature; it required constant adjustment, and adjustment required knowledge. He could not balance factions whose movements he could not see.
 
-His education began with a failure.
-
-In the autumn of 1479, Bertoldo learned–too late–that Lorenzo Orsini had negotiated a marriage alliance with the Duke of Ferrara. The betrothal was announced before Bertoldo knew negotiations had commenced. Rinaldi, furious at being outmaneuvered, accused Bertoldo of complicity.
-
-"You knew," the treasurer hissed. "You must have known. Orsini's messengers passed through your gate."
-
-Bertoldo had not known. The messengers had been disguised as merchants, their letters hidden in bolts of cloth. He had been blind, and his blindness had nearly cost him everything.
-
-That night, he wrote in cipher:
-
-*The gatekeeper who sees only what passes through the gate sees nothing. The world beyond the walls moves without his permission. I must extend my sight—or accept that others will shape events while I stand apart, witnessing only the unfolding consequences.*
-
-Some would say a chamberlain has no business gathering intelligence. Let them say it. Let them also explain how a chamberlain survives when he is the last to know what everyone else has already learned. Orsini's marriage alliance caught me unprepared. By the time I knew, Rinaldi was already plotting revenge. Six months of careful balance, destroyed because I was blind. Never again. If captains and diplomats gather intelligence, then so must I—or I will be crushed between their schemes.
-
-I have begun to build something. I do not call it a spy network—that would be too formal, too visible. But I have eyes and ears now. Not paid informants. Not formal agents. Just people who owe me small debts of gratitude. A servant whose position I secured. A merchant whose petition I expedited. A priest whose monastery received ducal patronage. They do not spy for me. They simply... remember me when they hear things.
+I have begun to build something. I do not call it an apparatus of informers—that would be too formal, too visible. But I have eyes and ears now. Not paid informants. Not formal agents. Just people who owe me small debts of gratitude. A servant whose position I secured. A merchant whose petition I expedited. A priest whose monastery received ducal patronage. They do not spy for me. They simply... remember me when they hear things.
 
 First, the servants. In every great house, servants see what masters believe is private. The chambermaid changing linens: which beds are shared. The cook preparing meals: which guests are fed, which turned away. The groom saddling horses: which journeys are taken in haste and secrecy.
 
 
-Bertoldo built his web not with gold but with kindness—the only currency that compounds without ledger.
+Bertoldo built his web not with gold but with kindness.
 
 The first thread he spun in the kitchen, before dawn, when the fires were being stoked and the bread was rising.
 
@@ -77,7 +63,7 @@ He recorded what each thread of his web had produced that day. Beside each name 
 
 When he was finished, he returned the ledger to its hiding place and mortared the stone with a paste that matched the surrounding wall. Even this record was secret. Even the record of his secrets must be concealed.
 
-*I have built nothing that could be called a spy network. I have merely been kind to servants, courteous to merchants, generous to clergy, and attentive to the young. If anyone accused me of intelligence-gathering, I could demonstrate nothing more sinister than good manners. And yet—I know now what I did not know last month. I know the shape of Orsini's ambitions and the weight of Rinaldi's debts. I know which servants are loyal and which are merely paid. I know these things because I asked no questions. I only listened. And people speak freely to a man who appears to have nothing at stake in what they say.*
+*I have built nothing that could be called an apparatus of informers. I have merely been kind to servants, courteous to merchants, generous to clergy, and attentive to the young. If anyone accused me of intelligence-gathering, I could demonstrate nothing more sinister than good manners. And yet—I know now what I did not know last month. I know the shape of Orsini's ambitions and the weight of Rinaldi's debts. I know which servants are loyal and which are merely paid. I know these things because I asked no questions. I only listened. And people speak freely to a man who appears to have nothing at stake in what they say.*
 
 I do not bribe servants. I help them. A word of praise to their masters. A recommendation for a better position. The resolution of a dispute that might have cost them their place. Men remember kindnesses. Not always. Not reliably. But enough. And the servant whose burden I have eased will remember me when he hears something I should know.
 
@@ -101,11 +87,11 @@ Fourth, and most delicate: the young. The boy Sandro whom Bertoldo had noticed i
 
 Bertoldo understood. The marriage alliance was progressing. Orsini's daughter would ride to Ferrara. He had six months, possibly a year, to prepare Rinaldi for the announcement.
 
-Am I a spymaster now? But what is the alternative? Honorable blindness? The prince depends on my sight. If I refuse to see, I serve only my own comfort—my own desire to remain clean. Federico does not need a servant with clean hands. He needs a servant who sees what threatens him. If that makes me a spymaster, so be it.
+Am I a master of spies now? But what is the alternative? Honorable blindness? The prince depends on my sight. If I refuse to see, I serve only my own comfort—my own desire to remain clean. Federico does not need a servant with clean hands. He needs a servant who sees what threatens him. If that makes me a master of spies, so be it.
 
 Yet the commerce of secrets carries dangers that the commerce of silk does not. Either the merchant who buys bad silk loses only money, or he loses his reputation as well–but he does not lose his life. The gatekeeper who trades in false intelligence may lose his position, his freedom, his life.
 
-In the winter of 1481, Bertoldo received word from a servant in the Rinaldi household that Giacomo Rinaldi was negotiating with Venice–that secret letters had passed between the treasurer and the Doge, that Venetian gold was flowing into Rinaldi's coffers. The information came from a chambermaid who claimed to have seen the letters herself. Bertoldo considered. Treason, if true. But something troubled him.. Rinaldi was selling Urbino to Venice. Bertoldo could inform Orsini, who would arrest Rinaldi, who would be executed. The balance would collapse–but in Orsini's favor, and Bertoldo would have Orsini's gratitude.
+In the winter of 1481, Bertoldo received word from a servant in the Rinaldi household that Giacomo Rinaldi was negotiating with Venice–that secret letters had passed between the treasurer and the Doge, that Venetian gold was flowing into Rinaldi's coffers. The information came from a chambermaid who claimed to have seen the letters herself. Bertoldo considered. Treason, if true. Rinaldi was selling Urbino to Venice. Bertoldo could inform Orsini, who would arrest Rinaldi, who would be executed. The balance would collapse–but in Orsini's favor, and Bertoldo would have Orsini's gratitude.
 
 But something troubled him. The chambermaid had come to him too eagerly. Her story was too complete, too convenient. Human nature compels men to see what they wish to see, and someone wished Bertoldo to see Rinaldi as a traitor.
 
@@ -125,9 +111,9 @@ In the spring of 1482, Bertoldo faced a different challenge: a secret he possess
 
 Young Guidobaldo, now twelve, had begun to show the signs of the wasting illness that would plague his adult years. His limbs trembled; his energy failed; he could not ride for more than an hour without exhaustion. The physicians whispered among themselves, but Bertoldo heard their whispers: the duke would likely never sire an heir. The bloodline would end with him.
 
-This knowledge was dynamite. If Orsini learned, he would begin maneuvering to control the succession—likely to place his own family on the throne. If Rinaldi learned, he would do the same. If either faction believed the other knew first, civil war would follow immediately.
+This knowledge was a powder train laid beneath the palace. If Orsini learned, he would begin maneuvering to control the succession—likely to place his own family on the throne. If Rinaldi learned, he would do the same. If either faction believed the other knew first, civil war would follow immediately.
 
-Some secrets must be buried, not traded. I learned today that Guidobaldo may never produce an heir. This knowledge is dynamite. If I share it—even with one trusted person—it will spread. The secret that is shared has already begun its journey toward exposure. I must destroy the evidence. I must ensure the physicians never speak of it. And I must carry this knowledge alone, until it no longer matters or until it kills me.
+Some secrets must be buried, not traded. I learned today that Guidobaldo may never produce an heir. This knowledge is a spark in a granary. If I share it—even with one trusted person—it will spread. The secret that is shared has already begun its journey toward exposure. I must destroy the evidence. I must ensure the physicians never speak of it. And I must carry this knowledge alone, until it no longer matters or until it kills me.
 
 Bertoldo destroyed the physicians' notes. He ensured the most knowledgeable physician received an appointment to a prestigious university in Bologna–an honor the man had long sought, a position that removed him from Urbino permanently. He instructed the remaining physicians to speak of youthful weakness that would pass with maturity.
 
@@ -137,14 +123,14 @@ That night, alone with his cipher, he wrote—the scratch of quill on parchment 
 
 *Is this service or betrayal? I cannot say. I know only that the realm requires my silence, and so I am silent. But the silence grows heavier with each passing month.*
 
-Some would say I should reveal what I know about Guidobaldo's illness. That the realm deserves the truth. they are right. But the truth, released now, would destroy what it seeks to preserve. Urbino would convulse. Guidobaldo would be swept aside. Whatever prince emerged from the chaos would inherit ruins. By burying this secret, I purchase time. Time for Guidobaldo to mature. To establish his authority. To prepare the realm for whatever succession might come. I serve the realm by lying to it. This is the burden I carry alone.
+Some would say I should reveal what I know about Guidobaldo's illness. That the realm deserves the truth. They are right. But the truth, released now, would destroy what it seeks to preserve. Urbino would convulse. Guidobaldo would be swept aside. Whatever prince emerged from the chaos would inherit ruins. By burying this secret, I purchase time. Time for Guidobaldo to mature. To establish his authority. To prepare the realm for whatever succession might come. I serve the realm by lying to it. This is the burden I carry alone.
 
 
 That summer, Bertoldo walked the gardens of the Palazzo Ducale with Sandro, now nineteen and entrusted with increasingly sensitive tasks.
 
 "How do you decide what to share and what to hold?" Sandro asked.
 
-Bertoldo considered. "Sandro asked me how I decide what to share and what to hold. I told him: Ask three questions. First: Who benefits if this is known? If the answer is 'my enemies,' hold it. If 'my prince,' share it. If 'myself,' examine your motives. Second: What happens if this is known falsely? If the consequences are irreversible—death, war, destruction—verify before acting. Third: What happens if this is never known? Some secrets lose their power with time. The alliance that threatens this year may dissolve next year. The scandal that could ruin a man today may be forgotten tomorrow. Time is the gatekeeper's ally."
+Bertoldo considered. "Ask three questions. First: Who benefits if this is known? If the answer is 'my enemies,' hold it. If 'my prince,' share it. If 'myself,' examine your motives. Second: What happens if this is known falsely? If the consequences are irreversible—death, war, destruction—verify before acting. Third: What happens if this is never known? Some secrets lose their power with time. The alliance that threatens this year may dissolve next year. The scandal that could ruin a man today may be forgotten tomorrow. Time is the gatekeeper's ally."
 
 Nevertheless, some secrets decay with time while others grow more dangerous.
 
