@@ -60,7 +60,7 @@ Bertoldo took a breath. Every instinct he possessed screamed that this–this mo
 
 The single syllable held an edge that might have cut leather.
 
-Bertoldo's pulse hammered against his ribs. *You are the voice of the one behind the door,* the cipher whispered in his mind. *Even when the door is empty. Especially then.*
+Bertoldo's pulse hammered against his ribs. *You are the voice of the one behind the door,* the cipher whispered in his mind. *Even when the door is empty. Especially then.*
 
 "Yes, my lord," he said. "The Duke has not authorized anyone to read his private drafts."
 
@@ -78,7 +78,7 @@ It was not a pleasant expression.
 
 "You will learn your fate from the Duke," Bertoldo replied. "Not from a stolen glance at his revisions."
 
-The word *stolen* landed like a slap.
+The word *stolen* landed like a slap.
 
 Color rose in Lorenzo's neck.
 
@@ -212,7 +212,7 @@ Federico turned from the window.
 
 "Which do you think Lorenzo will choose?" he asked.
 
-"My opinion is..." Bertoldo stopped himself, the word clumsy in his mouth. Opinion was for courtiers. What Federico needed was pattern, not preference.
+"My opinion is..." Bertoldo stopped himself, the word clumsy in his mouth. Opinion was for courtiers. What Federico needed was pattern, not preference.
 
 "The pattern suggests," he corrected, "that Lord Lorenzo has not decided yet. He is testing boundaries. Seeing how far he may go in asserting his interests before you assert yours."
 
@@ -368,7 +368,7 @@ Federico gestured to the seat at his right.
 
 Lorenzo hesitated, then took the offered place.
 
-Bertoldo saw the calculation in the man's eyes as he sat. *If he knew, he would not smile. If he did not know, he would not invite.*
+Bertoldo saw the calculation in the man's eyes as he sat. *If he knew, he would not smile. If he did not know, he would not invite.*
 
 He slipped from the pillar back toward the antechamber, where the petitions for the morning waited like patient wolves of a more familiar kind.
 
@@ -382,7 +382,7 @@ His right hand ached–the dull, familiar pain that came when he had clenched it
 
 *I could have pretended not to see. Many do. It is safer to be blind in such moments. Blind men rarely lose their heads for what they cannot report.*
 
-*Discovery: The gatekeeper's first allegiance cannot be to those who frighten him most. It cannot even be to the prince's comfort. It must be to the line between inside and out–between what the prince knows and what moves in darkness beyond his sight.*
+*The gatekeeper's first allegiance cannot be to those who frighten him most. It cannot even be to the prince's comfort. It must be to the line between inside and out–between what the prince knows and what moves in darkness beyond his sight.*
 
 *Today I placed another knife in my master's hand. Not a foreign insult this time, but a domestic fissure. The first cut between loyalty to the house and loyalty to the realm.*
 
