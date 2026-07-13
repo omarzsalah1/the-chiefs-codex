@@ -91,7 +91,7 @@ Bertoldo bent closer. The seals were correct—he had seen Orsini's signet often
 
 Through the door, Federico's breathing hitched, stopped, and resumed with a sound like tearing cloth. Both men froze. A physician emerged, his face drawn, his hands still damp from whatever ministrations he had performed. He looked at Bertoldo and Rinaldi standing over their documents and said nothing—but his expression spoke: *not long now.*
 
-When the physician's footsteps had faded down the corridor, Rinaldi turned back with renewed urgency. The dying man's breath was a metronome counting out what remained.
+When the physician's footsteps had faded down the corridor, Rinaldi turned back with renewed urgency. The dying man's breath was a water clock counting out what remained.
 
 "Ten thousand ducats when Rinaldi is named regent," the treasurer said. "Twenty thousand when Guidobaldo reaches majority. And protection—for you and your family."
 
@@ -186,9 +186,6 @@ He went to the window. Dawn was a grey promise over the Apennines, and the palac
 
 His hand, resting on the cold stone sill, trembled once and was still.
 
-When Rinaldi attempted to bribe a council member, Bertoldo informed Orsini–not directly, but through a servant who owed him a favor, ensuring the information seemed to arise from Orsini's own intelligence.
-
-
 The humiliation was public before Bertoldo could make it private.
 
 The council chamber, a Tuesday morning, autumn light slanting through the western windows. Orsini stood at the head of the table with the satisfaction of a man holding four aces, and mentioned—casually, as though it were common knowledge—that the betrothal documents with Ferrara had been signed.
@@ -229,13 +226,11 @@ He sat down. His stomach heaved—not metaphorically but physically, a rolling n
 
 He stood. He washed his face in the basin he had fouled and dried it with a cloth. Then he returned to his desk and began to write—not in cipher, not in the private language of his journal, but in plain hand, drawing diagrams and lists.
 
-He sketched the outline of what he needed: not a formal intelligence service—too visible, too easily corrupted—but a web. Threads running from the kitchen to the stables to the market to the clergy, each thread thin enough to be invisible, strong enough to carry information. A web that would catch what the gate missed. A web whose center was a man who sat at a desk in an unremarkable room and touched nothing while touching everything.
+He sketched the outline of what he needed: not a formal apparatus of informers—too visible, too easily corrupted—but a web. Threads running from the kitchen to the stables to the market to the clergy, each thread thin enough to be invisible, strong enough to carry information. A web that would catch what the gate missed. A web whose center was a man who sat at a desk in an unremarkable room and touched nothing while touching everything.
 
 *I will never be blind again. The cost is too high—not merely the humiliation, which will fade, but the recognition that my enemies are learning. Orsini concealed this alliance using my own habits against me. He studied my schedule, identified my patterns, and moved in the gaps I left. If he can do this, others can do this. I must eliminate the gaps. I must see everything.*
 
 *And I must begin tonight. Because Rinaldi is already plotting his revenge for the Ferrara alliance, and if I am blind to that as well, I will not survive the winter.*
-
-When Orsini planned to arrest Rinaldi for treason, Bertoldo warned the treasurer–again indirectly, through a merchant who traded with both houses.
 
 Moreover, I never lied. I conveyed Orsini's letter faithfully. I did not fabricate Rinaldi's bribery–it was real. I did not invent Orsini's arrest plans–they existed. I ensured that each faction's schemes were laid bare to the other, fostering a balance of mutual suspicion that prevented either from acting decisively.
 
@@ -245,7 +240,7 @@ Some would say I manipulate for my own survival. They are right. But my survival
 
 Duke Federico died on September 10, 1478. The council met the following morning.
 
-Like the heron that stands motionless in the shallows, seeming to sleep while its eye tracks every movement beneath the surface, Bertoldo stood at the door, admitting members one by one, his face a mask of grief that concealed nothing because there was nothing to conceal–he had served Federico faithfully and genuinely mourned him.
+Bertoldo stood at the door, admitting members one by one, his face a mask of grief that concealed nothing because there was nothing to conceal–he had served Federico faithfully and genuinely mourned him.
 
 The debate raged for three days. The council chamber was a vaulted room on the palazzo's second floor, its windows facing west so that by afternoon the heat became punishing and by evening the light failed and candles had to be lit. The table was oak, scarred by generations of fists and daggers, and around it sat eleven men who controlled Urbino's fate: five of Orsini's party, four of Rinaldi's, and two independents whose neutrality was purchased hourly by both sides.
 
@@ -303,8 +298,6 @@ Rinaldi unclasped his fingers. "The terms would need to be precise."
 
 The vote came an hour later. Nine in favor, one opposed, one abstaining. The compromise was not Bertoldo's proposal—for he had made none—but a proposal that his words had made inevitable.
 
-And who would coordinate between the regents? Who would carry messages, schedule meetings, manage the young duke's education?
-
 Bertoldo di Fano returned to his position by the door. He closed it behind the last departing lord and stood alone in the empty chamber. The candles guttered in their sconces. The oak table bore the rings of a hundred wine cups and the scratches of three days' worth of anxious fingernails.
 
 He leaned against the doorframe and breathed.
@@ -345,11 +338,7 @@ In the spring of 1479, as the regency stabilized, Bertoldo noticed a young clerk
 
 Bertoldo filed this observation away. Not every seed sprouts immediately; some must wait for their season. Therefore Bertoldo cultivated patience as other men cultivate vineyards.
 
-If I am to survive what comes next, I must remember: Take no side that can be detected. Let each faction believe I might favor them. Make myself indispensable to both. Never reveal my true preference—not even to myself, for what I do not know I cannot betray. And accept that I will be loved by neither. But I will be needed by both. And need is stronger than love.ator, the servant without whom the machinery cannot function.
-
-Fifth, accept that neutrality costs love but purchases survival.
-
-And sixth, watch always for those who might one day carry your methods forward.
+If I am to survive what comes next, I must remember: never reveal my true preference—not even to myself, for what I do not know I cannot betray. I will be loved by neither, but I will be needed by both. And need is stronger than love. Accordingly, let the gatekeeper who would survive a succession observe these principles: First, take no side that can be detected. Second, serve all factions with equal faithfulness. Third, reveal each faction's schemes to the other, not through lies but through the careful timing of truth. Fourth, position yourself as the essential conduit, the servant without whom the machinery cannot function. Fifth, accept that neutrality costs love but purchases survival. Sixth, watch always for those who might one day carry your methods forward.
 
 The middle course–appearing neutral while secretly favoring one side–is the most dangerous path of all, and men by nature cannot sustain such deception indefinitely, for the favored faction grows complacent while the disfavored faction grows suspicious.
 
@@ -357,5 +346,5 @@ True neutrality is my only protection. If I secretly favor Orsini, Rinaldi will 
 
 For the gate belongs to no faction, and he who guards it must belong to none either. The moment he declares allegiance, he ceases to be gatekeeper and becomes partisan–and partisans, however victorious, are eventually consumed by the very conflicts they chose to join.
 
-The hand that holds the scales need never draw the sword, for it determines the weight of the world.
+The hand that holds the scales need never draw the sword.
 
