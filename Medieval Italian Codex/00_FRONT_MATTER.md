@@ -1,4 +1,4 @@
-THE CHIEFS CODEX
+THE CHAMBERLAIN'S CIPHER
 
 *On Power, Proximity, and Those Who Guard It*
 
@@ -8,7 +8,7 @@ THE CHIEFS CODEX
 
 "It is not that we have a short time to live, but that we waste a lot of it." – Seneca, *De Brevitate Vitae* (49 AD) 
 
-Being nineteen chapters on the art of service, compiled from the cipher of Bertoldo di Fano, who served the Dukes of Urbino from 1461 until his voluntary departure in 1490, and who died in that city in the summer of 1494, having transmitted his methods to Sandro Torelli, so that the chain might hold.
+Being nineteen chapters on the art of service, compiled from the cipher of Bertoldo di Fano, who served the Dukes of Urbino from 1461 until his voluntary departure in 1490, and who was recalled in the summer of 1494 only to find the gate already in his successor's hands, and who died at Fano in the autumn of that year, having transmitted his methods to Sandro Torelli, so that the chain might hold.
 
 A Note on the Text The manuscript from which these chapters are drawn was discovered among the papers of a Ferrarese antiquary in 1847, only to vanish again during the revolutions of 1848. The present text is a reconstruction, pieced together from three partial copies made by scholars who examined the originals during that brief window of light.
 
@@ -19,63 +19,53 @@ Scholars dispute whether Bertoldo di Fano existed as a man or was nothing more t
 – *The Editors*
 –
 
-### TO THE READER
-
-These chapters describe a small court in Urbino, but they are written for anyone who stands between a principal and the world. The title "duke" may be read as president, chief executive, founder, or any person whose attention has become a scarce resource. The "gate" may be a literal door, or it may be a calendar, an inbox, or a glowing screen.
-
-The cipher of Bertoldo di Fano is not a philosophy of leadership. It is a manual of proximity. It concerns itself with those who stand close enough to power to be burned by it, yet are required to remain invisible.
-
-Power always creates a penumbra of unseen labor. This book is for those who perform that labor, who will never be thanked in public, and who must learn to live with the knowledge that their successes will be credited to others and their failures will be their own.
-
-–
-
 ### CONTENTS
 
 Prologue – *Spring, 1483*
 
 Part I: The Ascent
 
-1. On the Art of Subtraction – *Guarding the prince's time by narrowing what reaches him.*
+1. On the Art of Subtraction
 
-2. On the Necessity of Mud – *Doing the ugly work yourself when appearances will not suffice.*
+2. On the Necessity of Mud
 
-3. On the Privilege of Wounding – *Hurting the prince in private to keep him from bleeding in public.*
+3. On the Privilege of Wounding
 
-4. On Handing Knives to Princes – *Revealing divided loyalties without becoming one of them.*
+4. On Handing Knives to Princes
 
-5. On Choosing Your Executioner – *Deciding who will hate you–and from which direction danger comes.*
+5. On Choosing Your Executioner
 
-6. On the Danger of Useful Men – *Controlling those whose competence can save or consume the realm.*
+6. On the Danger of Useful Men
 
 Part II: The Tenure
 
-7. On the Price of Clean Hands – *What refusing to dirty yourself truly costs the office.*
+7. On the Price of Clean Hands
 
-8. On the Architecture of Tension – *Keeping factions just angry enough to be useful.*
+8. On the Architecture of Tension
 
-9. On the Precision of Thunder – *How and when to make fear audible without wasting it.*
+9. On the Precision of Thunder
 
-10. On the Midnight Knock – *Using surprise without turning the court into an occupied city.*
+10. On the Midnight Knock
 
-11. On the Solitude of the Knife – *Decisions you must make alone and never explain.*
+11. On the Solitude of the Knife
 
-12. On the Temptation of Competence – *Resisting the urge to rule simply because you know how.*
+12. On the Temptation of Competence
 
 Part III: The Departure
 
-13. On the Art of Disappearing – *Becoming smaller before you vanish entirely.*
+13. On the Art of Disappearing
 
-14. On the Keeper of Mortality – *Managing illness, decline, and the approach of the inevitable.*
+14. On the Keeper of Mortality
 
-15. On the Chains of Necessity – *Making yourself indispensable without becoming visible.*
+15. On the Chains of Necessity
 
-16. On the Weapon of Weakness – *Using apparent fragility to draw enemies into the open.*
+16. On the Weapon of Weakness
 
-17. On the Education of Monsters – *Teaching your methods to someone who will outlive you.*
+17. On the Education of Monsters
 
-18. On the Dignity of Absence – *Learning to live without the gate, and letting the gate live without you.*
+18. On the Dignity of Absence
 
-19. On the Persistence of the Gate – *Returning to service when peace has finally found you.*
+19. On the Persistence of the Gate
 
 –
 
@@ -124,4 +114,3 @@ Bertoldo met the legate's gaze. "Your Eminence perceives more than most visitors
 He turned to leave, then paused. "But I offer you counsel, chamberlain. The fox who grows too clever becomes a trophy on the huntsman's wall. Remain invisible–or learn to run swift."
 
 –
-
