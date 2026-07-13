@@ -120,19 +120,15 @@ He wrote in his cipher journal:
 
 *How long can I perform weakness before the weakness performs itself? Three weeks, perhaps. A month. Then the mask must come off, or it will grow into the skin.*
 
-Every man who might have remained neutral asks himself: "If he struck down Orsini this day, will he strike me on the morrow?" And the neutral man, thus frightened, joins the conspiracy he previously disdained.
-
 Fear transforms the uncommitted into enemies more reliably than any argument. If I strike down the conspirators, every neutral man in Urbino will fear me—and join the next conspiracy against me.
 
 Should I expose both conspirators simultaneously? Preserve balance by destroying both threats equally? No. Then I would stand revealed not as a faithful servant but as a collector of secrets. A man who spent nine years gathering weapons against those he pretended to serve. Men will forgive you for wielding power, but never for having concealed it.
-
-Men will forgive you for wielding power, but never for having concealed it.
 
 Therefore, Bertoldo chose neither to strike nor to reveal. He chose, instead, to make the conspiracy succeed–on terms that ensured its failure.
 
 The plan required three elements: information, intermediaries, and, most delicate of all, the appearance of weakness.
 
-The information Bertoldo already possessed. Through Sandro Torelli–now steward of the ducal household and Bertoldo's most trusted agent–he learned that the conspirators' plan was straightforward. Upon Guidobaldo's death, or–if impatience triumphed–shortly before it, they would present the council with a fait accompli: the garrison secured under Marco's command, the treasury sealed under Paolo's authority, and a letter already dispatched to the Montefeltro cousins offering terms of transition. Bertoldo would be arrested for financial irregularities–a charge vague enough to justify anything.
+The information Bertoldo already possessed. Through Sandro Torelli–now steward of the ducal household and Bertoldo's most trusted agent–he learned that the conspirators' plan was straightforward. Upon Guidobaldo's death, or–if impatience triumphed–shortly before it, they would present the council with accomplished facts: the garrison secured under Marco's command, the treasury sealed under Paolo's authority, and a letter already dispatched to the Montefeltro cousins offering terms of transition. Bertoldo would be arrested for financial irregularities–a charge vague enough to justify anything.
 
 The plan's virtue was its simplicity. Its flaw was that it required Guidobaldo to die.
 
@@ -235,27 +231,6 @@ He did not offer a toast. He did not extend his hand. He simply placed the cup b
 He left the warehouse alone, walking through streets that smelled of rain and horse dung and the faint, persistent sweetness of the cinnamon that clung to Rinaldi's cloth. The moon was hidden. The cobblestones were slick. He walked carefully, an old man in the dark, and wondered how many more midnight meetings his body could sustain before the performance of health became as transparent as his performance of weakness.
 
 *Rinaldi and I have sealed an alliance that neither of us will acknowledge and neither of us will break. He will restrain his son. I will protect his house. We are bound not by loyalty or affection but by the most reliable force in human affairs: mutual self-interest. Loyalty can be bought. Affection can be betrayed. But self-interest endures as long as the self endures. I trust Rinaldi's greed more than I trust any man's honor—including my own.*
-
-## Integration Notes
-
-| ID | Chapter | Inject After Line | Action |
-|---|---|---|---|
-| WS7-13-01 | 13 | 3832 | EXPAND chapel confrontation |
-| WS7-13-02 | 13 | 3832 (REPLACE 3834-3846) | EXPAND corridor bribe |
-| WS7-13-03 | 13 | 3860 | NEW intelligence choreography |
-| WS7-13-04 | 13 | 3876 (REPLACE 3876-3886) | EXPAND council scene |
-| WS7-14-01 | 14 | 3954 | NEW blindness/humiliation |
-| WS7-14-02 | 14 | 3960 | NEW web-building montage |
-| WS7-14-03 | 14 | 4068 (REPLACE 4068-4085) | EXPAND Colonna scene |
-| WS7-14-04 | 14 | 4107 + REPLACE 4121-4145 | NEW preparation + EXPAND Sandro |
-| WS7-15-01 | 15 | 4161 | NEW sister's death |
-| WS7-15-02 | 15 | 4173 | NEW feast of forgetting |
-| WS7-15-03 | 15 | 4177 | NEW first teaching session |
-| WS7-16-01 | 16 | 4197 | NEW reading the silence |
-| WS7-16-02 | 16 | 4215 | NEW staging weakness |
-| WS7-16-03 | 16 | 4235 (REPLACE 4235-4251) | EXPAND warehouse negotiation |
-
-I will go to Lorenzo Orsini and Giacomo Rinaldi—the fathers, not the sons. I will appeal to what they have built over decades. Men who have built something understand, as the young do not, that inheritance is more valuable than conquest. They will restrain their sons. Not out of love for me. Out of love for what they have built.
 
 The appearance of weakness was the most dangerous element. Conspiracy feeds on the perception of opportunity; remove the perception, and the conspiracy starves.
 
@@ -454,7 +429,7 @@ He resumed walking.
 
 "Neither did I," Bertoldo said, "until today."
 
-They reached his chambers. Bertoldo collapsed into a chair by the window. His whole body was trembling now—not fear, not anymore, but the aftermath of adrenaline spent and terror delayed.
+They reached his chambers. Bertoldo collapsed into a chair by the window. His whole body was trembling now—not fear, not anymore, but the aftermath of the body's spent alarm and terror delayed.
 
 "Did we win?" Sandro asked.
 
@@ -462,35 +437,7 @@ Bertoldo looked out the window, toward the hills where Marco Orsini was riding h
 
 "We survived," Bertoldo said. "In this work, that's the same thing."
 
-The conspiracy that believes its target is already falling moves too soon. Before its preparations are complete. I must create that perception. I must convince Marco and Paolo that I am already falling. Then they will move too soon, too openly, before they are ready. And I will be ready for them.
-
-Bertoldo began to absent himself from council meetings, citing the need to attend the duke's sickbed. He allowed correspondence to accumulate unanswered—parchment piling on his desk, seals unbroken, dust gathering on the wax. He was seen, more than once, leaving the chapel at odd hours, his face drawn, his step slower—the behavior of a man making peace with God. Servants reported, because servants always report, that the chamberlain had begun organizing his personal papers, as a man does who expects to leave.
-
-Within a week, Marco Orsini's patience shattered.
-
-The young captain moved on the night of the feast of San Francesco, when the garrison's attention would be divided between duty and celebration. His plan was sound: secure the armory, seize the gates, present the council with accomplished facts at dawn.
-
-But sound plans require loyal execution, and loyalty purchased with promises dissolves when those promises meet reality.
-
-Three of Marco's key supporters failed to appear at the appointed hour. The armory sergeant–an old soldier who remembered Duke Federico–found urgent business elsewhere. The gate captain discovered that his relief had arrived early, courtesy of orders he did not recall receiving.
-
-And Marco himself, arriving at the garrison yard to take command, found not the eager faces of fellow conspirators but the weathered features of his uncle Lorenzo, who had received an anonymous letter detailing the entire plot.
-
-"You young fool," Lorenzo said, with the weariness of a man who has watched ambition destroy better men than his nephew. "Did you imagine there were secrets in Urbino that the chamberlain did not know?"
-
-The question answered itself.
-
-Marco Orsini's conspiracy ended not with a battle but with a family argument, conducted in whispers while the feast of San Francesco continued in the great hall.
-
-From the cipher of Bertoldo di Fano:
-
-*The boy is finished–not by my hand, but by his uncle's. Lorenzo knows now what I have always known: that young ambition, unchecked, destroys the house it claims to serve. He will send Marco to the Neapolitan wars, where either glory or death will resolve the problem.*
-
-*Paolo Rinaldi has already retreated to his father's shadow, chastened by the old man's fury. The conspiracy dies tonight, and I never lifted a visible finger against it.*
-
-*But I am not deceived. What I witnessed tonight was not victory–it was reprieve. Lorenzo and Giacomo will not forgive what they have learned: that for nine years, I set them against each other like fighting dogs, whistling them on while pretending to hold the leashes. They know now. They will always know. And knowledge, in proud men, is the seed of future revenge. I have five years at most before that seed blossoms. It may be fewer. The question is no longer whether I will be destroyed but whether I can choose the manner of my departure.*
-
-Duke Guidobaldo's fever broke three days after the feast of San Francesco. By Christmas, he was receiving petitions again. By spring, he was riding–briefly, painfully, but riding.
+Duke Guidobaldo's fever broke and did not return. By Christmas, he was receiving petitions again. By spring, he was riding–briefly, painfully, but riding.
 
 The young duke never learned how close his duchy had come to chaos. This was deliberate. I have learned this at cost: the prince who knows he was saved will resent his savior. The debt of gratitude is the heaviest debt of all, and men will do extraordinary things to escape it.
 
